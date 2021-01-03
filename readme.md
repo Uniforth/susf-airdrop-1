@@ -11,3 +11,4 @@ Formulas -
 * tokenspercumlative -> tokens per cumalative score
 * amount -> amount of tokens to be received by the wallet 
   = tokenspercumlative * Cumalative scores
+* times - number of times address counted in the snapshot
