@@ -6,7 +6,7 @@ Removed ineligible Addesses -
 * 0x0000000000000000000000000000000000000000 - burner wallet
 
 Formulas - 
-* Cumalative scores -> combined scores of amount help by the wallet per snapshot
+* Cumalative scores -> combined scores of amount held by the wallet per snapshot
 * total -> total tokens to be airdropped (8.33% of total supply in batch 1)
 * tokenspercumlative -> tokens per cumative score
 * amount -> amount of tokens to be received by the wallet 
