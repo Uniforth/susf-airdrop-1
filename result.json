@@ -1,0 +1,3971 @@
+{
+    "tokenspercumlative": 0.03296659916370226,
+    "total": 790400,
+    "list": [{
+            "amount": 309.0227315057448,
+            "cumalative": 9373.812869542,
+            "address": "0x7af8f11d147fa22028a76d4a6acb6ce88625623a",
+            "times": 4
+        },
+        {
+            "amount": 359.45595834370863,
+            "cumalative": 10903.640880843,
+            "address": "0x99ebd661122bc036f3042352900cf6c1baa0e095",
+            "times": 5
+        },
+        {
+            "amount": 2600.4240685194363,
+            "cumalative": 78880.56804423498,
+            "address": "0x5e86cf01d2528d7c6e1a45b41fe1143f238f5f18",
+            "times": 4
+        },
+        {
+            "amount": 40.53234958970253,
+            "cumalative": 1229.497449477,
+            "address": "0x4ff0282630ce465340eba9a7195154e520cc42eb",
+            "times": 3
+        },
+        {
+            "amount": 1121.5650968901314,
+            "cumalative": 34021.255614532,
+            "address": "0x224364ca7d204bfcc85f3e2dbf1efa170389c7cf",
+            "times": 4
+        },
+        {
+            "amount": 53.27949585033394,
+            "cumalative": 1616.1659741049998,
+            "address": "0xc2be9e17c687541e33e8debf741234f54bc75482",
+            "times": 5
+        },
+        {
+            "amount": 68.12464433389279,
+            "cumalative": 2066.474736918,
+            "address": "0x4cac3601a89b22a1c8cb6078c6be9ea0abecc6dd",
+            "times": 3
+        },
+        {
+            "amount": 27.269697662028847,
+            "cumalative": 827.1917138499999,
+            "address": "0x14f4785e5f8738eb589eb0bf9edc6a5f86755944",
+            "times": 5
+        },
+        {
+            "amount": 116.18870587330582,
+            "cumalative": 3524.437121838,
+            "address": "0x45e294132f31fe2060e2a1266a89a4596e9a19d9",
+            "times": 5
+        },
+        {
+            "amount": 3382.8132472300213,
+            "cumalative": 102613.35209106599,
+            "address": "0x23ab1dd0171ea56ad5631f1446ed147c23fa8860",
+            "times": 5
+        },
+        {
+            "amount": 20.721288951770127,
+            "cumalative": 628.554035825,
+            "address": "0xdb8ce64d87042f41810fb8e247e2ab3c306b5575",
+            "times": 5
+        },
+        {
+            "amount": 112.99058100986367,
+            "cumalative": 3427.4260577739997,
+            "address": "0x408b8ce4fe17305724c20398a1c912e92236cd3f",
+            "times": 4
+        },
+        {
+            "amount": 1627.7662632419676,
+            "cumalative": 49376.226378674,
+            "address": "0x1f09f3157e0d88b877c68de480e8158e4ce33cb4",
+            "times": 3
+        },
+        {
+            "amount": 30.787113993196485,
+            "cumalative": 933.8880798810001,
+            "address": "0x382927ef5b024ac58c3f304125bfb51ef93c624a",
+            "times": 3
+        },
+        {
+            "amount": 6089.603813553812,
+            "cumalative": 184720.41302515502,
+            "address": "0x432ff5cca84d98ebe68e85416b9a42dc5dd9fc23",
+            "times": 5
+        },
+        {
+            "amount": 43.885870906093494,
+            "cumalative": 1331.222267974,
+            "address": "0x114264f458ac93c7833fe5f4733829965fc0899b",
+            "times": 5
+        },
+        {
+            "amount": 216.7239420348809,
+            "cumalative": 6574.046080965,
+            "address": "0x4ffeca8df2aee8c9927694b9bf80d53625a61dc5",
+            "times": 5
+        },
+        {
+            "amount": 259.887259206078,
+            "cumalative": 7883.350597238001,
+            "address": "0x7e62a0ed327d78623b2afa9821889bb7def9fb75",
+            "times": 5
+        },
+        {
+            "amount": 28.86893890471564,
+            "cumalative": 875.702669886,
+            "address": "0x5094d6c030f20b095e3778bef5e7a57916039140",
+            "times": 3
+        },
+        {
+            "amount": 281.31837508485233,
+            "cumalative": 8533.436333178,
+            "address": "0x97ea12b4aad7a342783a919d94b9b1b55296d607",
+            "times": 3
+        },
+        {
+            "amount": 1238.4324285125633,
+            "cumalative": 37566.277988302,
+            "address": "0x3a45468c2b85a969ab3999f9b286da9bab226709",
+            "times": 5
+        },
+        {
+            "amount": 512.5300725172596,
+            "cumalative": 15546.950110691998,
+            "address": "0x2f5947a91da9dfcf6cc2e5a2a60ae087a540c3d2",
+            "times": 5
+        },
+        {
+            "amount": 39.00313194493567,
+            "cumalative": 1183.110570528,
+            "address": "0x0cbdd0117ab036170e6f449c7019b543a04879c3",
+            "times": 4
+        },
+        {
+            "amount": 1830.3236527869942,
+            "cumalative": 55520.548046165,
+            "address": "0x5ee0e896d0ead8c9348ba1726aad2f01b7b6fd3c",
+            "times": 5
+        },
+        {
+            "amount": 735.1512723316256,
+            "cumalative": 22299.88203154,
+            "address": "0x199c92538e4946451c2b2bca3c0f5722e008615f",
+            "times": 5
+        },
+        {
+            "amount": 112.6496160757322,
+            "cumalative": 3417.083318675,
+            "address": "0x007376ef4b1409fd5ccc558bf1ba07293e813f7a",
+            "times": 5
+        },
+        {
+            "amount": 346.2878659643971,
+            "cumalative": 10504.20348926,
+            "address": "0x543081d731314714825888f4bf578eeeb06c417a",
+            "times": 5
+        },
+        {
+            "amount": 16.03826348511305,
+            "cumalative": 486.50039409500005,
+            "address": "0x7cf83823181e484507058b26ac29bfda3d3492d4",
+            "times": 5
+        },
+        {
+            "amount": 310.06334198992187,
+            "cumalative": 9405.378469591,
+            "address": "0x2c50136ddecadc127a747f6f41ed1d0a57b0b8b3",
+            "times": 5
+        },
+        {
+            "amount": 1403.930620137572,
+            "cumalative": 42586.455859947004,
+            "address": "0x96fee32553c5987ca8968a9253c68f3dc4007775",
+            "times": 5
+        },
+        {
+            "amount": 557.0359740002949,
+            "cumalative": 16896.980220319998,
+            "address": "0x5b9412e9c2207ef0f0d906a8516f6175273c6bd3",
+            "times": 5
+        },
+        {
+            "amount": 291.6613914894557,
+            "cumalative": 8847.178625892,
+            "address": "0xc046569c149a9630c6ce1dadeaf5683b8554e087",
+            "times": 3
+        },
+        {
+            "amount": 3868.093874494325,
+            "cumalative": 117333.72481906699,
+            "address": "0xf7cbc909f845e249f0fb13a71dd960986b51bbad",
+            "times": 5
+        },
+        {
+            "amount": 2846.0480463841623,
+            "cumalative": 86331.26008089399,
+            "address": "0xb33f68fd9e83392f7d2fe729f622dbd2e77f660d",
+            "times": 4
+        },
+        {
+            "amount": 751.7648924417811,
+            "cumalative": 22803.835139583,
+            "address": "0x7b56d25a58967cbd896b96256c4adff0b64c503a",
+            "times": 5
+        },
+        {
+            "amount": 2389.1509424616906,
+            "cumalative": 72471.86555695001,
+            "address": "0xeffd245532f209dbbd8e51e16d2063e20da55e9c",
+            "times": 3
+        },
+        {
+            "amount": 142.5485190332585,
+            "cumalative": 4324.028642609001,
+            "address": "0x99506ec920451ae12c5edef671cebf44a93c19a5",
+            "times": 5
+        },
+        {
+            "amount": 86.605016508451,
+            "cumalative": 2627.0534027000003,
+            "address": "0xb6636b3c4d06f7f826aae9e0a1a1733d8da94c02",
+            "times": 5
+        },
+        {
+            "amount": 19.174726116916766,
+            "cumalative": 581.64101252,
+            "address": "0x8620b447cd4bd587e836478a6f51561a34c9479e",
+            "times": 5
+        },
+        {
+            "amount": 15.762071949043161,
+            "cumalative": 478.122473925,
+            "address": "0xd29c4757ee68456f7f296a5b9b6db318842fdd9c",
+            "times": 3
+        },
+        {
+            "amount": 597.4807135549238,
+            "cumalative": 18123.82013043,
+            "address": "0x354613958683646ca01fc2398dbf70490b337d46",
+            "times": 3
+        },
+        {
+            "amount": 1154.8550079976765,
+            "cumalative": 35031.062872546005,
+            "address": "0x0902cef863ed1f6a3709e7b1cbef93b6819415bf",
+            "times": 5
+        },
+        {
+            "amount": 28.495470854409458,
+            "cumalative": 864.3739899560001,
+            "address": "0xf52bc860b49f0474dbf55ffac21079cac436ee0d",
+            "times": 3
+        },
+        {
+            "amount": 128.31311987915086,
+            "cumalative": 3892.215852839,
+            "address": "0x48e5663138532ea3545d532628f1d481e515280d",
+            "times": 5
+        },
+        {
+            "amount": 19.3873592699588,
+            "cumalative": 588.0909697019999,
+            "address": "0x9a7e3ab341822949a439bd5feab5ee9766471cc1",
+            "times": 5
+        },
+        {
+            "amount": 1123.1957345318417,
+            "cumalative": 34070.718940537,
+            "address": "0x6cde6ae4bec6dbdcfb1196a24e3a828d591ea9a4",
+            "times": 5
+        },
+        {
+            "amount": 18.75359709591815,
+            "cumalative": 568.8665974549999,
+            "address": "0x9c9039635657a2b5e077dc758d51ea0bde15b38d",
+            "times": 5
+        },
+        {
+            "amount": 77.94085529543194,
+            "cumalative": 2364.2370542500003,
+            "address": "0xfc6e0bfa16aa2282ac87b27a8987d31c1bfb64b0",
+            "times": 5
+        },
+        {
+            "amount": 15.394036492008402,
+            "cumalative": 466.958584826,
+            "address": "0xd6ee257dc510ff6682fa54689d87ace46c8c79cf",
+            "times": 5
+        },
+        {
+            "amount": 140.01315228019322,
+            "cumalative": 4247.121505768,
+            "address": "0x724186d0c9acf65ba3335573b2c81d8c9ddab282",
+            "times": 4
+        },
+        {
+            "amount": 27.09954942483425,
+            "cumalative": 822.03048274,
+            "address": "0x6735a7e5577d8c7c36ca7a9a2af7d09b8133450d",
+            "times": 5
+        },
+        {
+            "amount": 115.30749383230594,
+            "cumalative": 3497.706671523,
+            "address": "0xfc3f86680da99427c8138a9cf5a573974ea8ad01",
+            "times": 5
+        },
+        {
+            "amount": 7.6967780045171565,
+            "cumalative": 233.472004992,
+            "address": "0x3b6ecdc2cc758aaddb5ff2fe46836d6523af3a52",
+            "times": 3
+        },
+        {
+            "amount": 1879.376005023867,
+            "cumalative": 57008.48897672,
+            "address": "0xf330478fc27dc89bf1405cbc398fdc67dde4d936",
+            "times": 3
+        },
+        {
+            "amount": 60.49855038927496,
+            "cumalative": 1835.14684329,
+            "address": "0x3a481cf698982507f8613a7af763a93382ee4910",
+            "times": 5
+        },
+        {
+            "amount": 223.49789984540914,
+            "cumalative": 6779.52550506,
+            "address": "0x55b5d473e68dc083de5e253a1d473212bc91f936",
+            "times": 4
+        },
+        {
+            "amount": 336.73708508561333,
+            "cumalative": 10214.492657052,
+            "address": "0x1337ab726c00539a6c5bbeed7314462fa5720b21",
+            "times": 3
+        },
+        {
+            "amount": 521.4376156735144,
+            "cumalative": 15817.1491419,
+            "address": "0xc86cea81d3c320086ce20efdec2e65d039136451",
+            "times": 4
+        },
+        {
+            "amount": 83.04871529974479,
+            "cumalative": 2519.177513196,
+            "address": "0xd7ae1182658ba4ea978796d0af8f3ccf2be28a9e",
+            "times": 4
+        },
+        {
+            "amount": 4.629858758051328,
+            "cumalative": 140.440897014,
+            "address": "0x04c872504d8bac012ed6e4f6ccc8f5042e84ee17",
+            "times": 3
+        },
+        {
+            "amount": 1317.4113458324323,
+            "cumalative": 39962.003338304996,
+            "address": "0xaa025a3bc13c02c2df3aac9b0cbcaa6eb9c71b4a",
+            "times": 3
+        },
+        {
+            "amount": 731.3802838725114,
+            "cumalative": 22185.493876414002,
+            "address": "0xb1f27b725fe19b6d577c0d70ecf209d41537760f",
+            "times": 5
+        },
+        {
+            "amount": 343.23005512620665,
+            "cumalative": 10411.448673301998,
+            "address": "0x50fd12158601b8f785d8afcc1a44658fe44d310e",
+            "times": 5
+        },
+        {
+            "amount": 195.44771956057602,
+            "cumalative": 5928.658840120001,
+            "address": "0xaba466cbf43c185171960e7033e05294c56e47a5",
+            "times": 5
+        },
+        {
+            "amount": 961.551153771224,
+            "cumalative": 29167.435469957,
+            "address": "0xeacb384b817bf85439b7149cbed6c775dc4ddfe8",
+            "times": 4
+        },
+        {
+            "amount": 87.85739226282678,
+            "cumalative": 2665.042633805,
+            "address": "0x38fffdcab90891d776342272b6e33b8cafecac3d",
+            "times": 5
+        },
+        {
+            "amount": 4.671874575115531,
+            "cumalative": 141.71539356899999,
+            "address": "0x3e7e73edd631c9f7f41c269e14645b455835928d",
+            "times": 3
+        },
+        {
+            "amount": 2860.859221942481,
+            "cumalative": 86780.538318081,
+            "address": "0xb13d1ffa00bed4b4c837caf8130fdffef175adf1",
+            "times": 4
+        },
+        {
+            "amount": 16.03825137021752,
+            "cumalative": 486.500026605,
+            "address": "0x5091081516c8695dfa1bfde3d7b33480c2cb2fca",
+            "times": 5
+        },
+        {
+            "amount": 33.51740096225421,
+            "cumalative": 1016.70787441,
+            "address": "0x1254831edf905e4e0224e90181e87dce6b8bcba0",
+            "times": 5
+        },
+        {
+            "amount": 145.31080486241206,
+            "cumalative": 4407.819082,
+            "address": "0xfd5074cb57c63e7a94638ebcd0b0802764808937",
+            "times": 5
+        },
+        {
+            "amount": 35.925686606102246,
+            "cumalative": 1089.76016688,
+            "address": "0x8330b5977c9d27d3e8e1df0cef33c6f68bc74b99",
+            "times": 4
+        },
+        {
+            "amount": 962.0998017150853,
+            "cumalative": 29184.078009915,
+            "address": "0xbf4be73500783811ac69b020a4ed6c1d87a5d6d7",
+            "times": 3
+        },
+        {
+            "amount": 238.72876295951858,
+            "cumalative": 7241.534432292,
+            "address": "0xa2bb8cd4677da353634591109c32bc95bad4f0f0",
+            "times": 4
+        },
+        {
+            "amount": 70.00480611878369,
+            "cumalative": 2123.5070615309996,
+            "address": "0x001f20ee6f716a5597049e29047939187c712eaf",
+            "times": 3
+        },
+        {
+            "amount": 20.157088650076847,
+            "cumalative": 611.4397348050001,
+            "address": "0xaa6a92136973272a3a786f6eacdf99b6f1785b86",
+            "times": 5
+        },
+        {
+            "amount": 35.51407768132438,
+            "cumalative": 1077.274531867,
+            "address": "0x1d55671dfe2d326107f2eca86a680a7449c5276e",
+            "times": 5
+        },
+        {
+            "amount": 409.07333222059873,
+            "cumalative": 12408.721026675,
+            "address": "0x297da3d7a7cd85f4269af5b799726ca971a06445",
+            "times": 5
+        },
+        {
+            "amount": 56.577990059599905,
+            "cumalative": 1716.221615055,
+            "address": "0x6180441027cc27f63d3d25c43618199839f3570e",
+            "times": 4
+        },
+        {
+            "amount": 39.87752671993979,
+            "cumalative": 1209.6342277200001,
+            "address": "0x8e7121241fbbbcaad65ec2a3bb9bbecc0ef25371",
+            "times": 5
+        },
+        {
+            "amount": 19.76049773695359,
+            "cumalative": 599.40965214,
+            "address": "0xc0b5bfa0fa55665d63ddbb93a381b9a036fff96c",
+            "times": 5
+        },
+        {
+            "amount": 14435.152660152666,
+            "cumalative": 437872.05918548105,
+            "address": "0xb20bf581918ff405c78c8ddf3bde8ff59d6df7a4",
+            "times": 5
+        },
+        {
+            "amount": 279.11188547849673,
+            "cumalative": 8466.505267726001,
+            "address": "0xb7d3364dc2f512d6abcb312178d6e5f0717f9e10",
+            "times": 5
+        },
+        {
+            "amount": 549.6538218893256,
+            "cumalative": 16673.051993016,
+            "address": "0xc58fcf055a1a398c4fbeee043e55bea8225bd2c9",
+            "times": 3
+        },
+        {
+            "amount": 33.67340620002729,
+            "cumalative": 1021.440095559,
+            "address": "0x87e5c08af59e06024b908a4ca273ca565e46154d",
+            "times": 3
+        },
+        {
+            "amount": 437.3656872367619,
+            "cumalative": 13266.93375513,
+            "address": "0x5085a7572cbb12b525c7c6faf8b835b8c167555e",
+            "times": 5
+        },
+        {
+            "amount": 464.1026044589112,
+            "cumalative": 14077.964249642999,
+            "address": "0xc58fc00860796fade2eab9e5b761f4855374cd39",
+            "times": 3
+        },
+        {
+            "amount": 866.1321408198125,
+            "cumalative": 26273.020657025,
+            "address": "0xbf6b737de8c63c0b1edf5241a690af8c2a1e6d26",
+            "times": 5
+        },
+        {
+            "amount": 113.39413699578499,
+            "cumalative": 3439.6674170940005,
+            "address": "0x8d61c148a41f67d3b4d19e1532b464121ef865c9",
+            "times": 3
+        },
+        {
+            "amount": 8.845019182263657,
+            "cumalative": 268.302445707,
+            "address": "0xdf5156d8e1030ad3ca22e34aae54bc247c052adc",
+            "times": 3
+        },
+        {
+            "amount": 86.46778809098072,
+            "cumalative": 2622.890752595,
+            "address": "0x3733293e26ab115cf1f9508795bb5d89c8c61510",
+            "times": 5
+        },
+        {
+            "amount": 82.73766058485266,
+            "cumalative": 2509.742062686,
+            "address": "0x4f5b73e5e6552e4cd01025802dc893e20a91cf49",
+            "times": 3
+        },
+        {
+            "amount": 44.907109976901886,
+            "cumalative": 1362.200260752,
+            "address": "0xcf1d94c4ea094d529809922b1883e82e92d1ef44",
+            "times": 4
+        },
+        {
+            "amount": 3299.5140951088097,
+            "cumalative": 100086.577894323,
+            "address": "0xf9de6c1b272b294565a6cde15b324f52719de338",
+            "times": 5
+        },
+        {
+            "amount": 8.019125906561891,
+            "cumalative": 243.25002002000002,
+            "address": "0x2591e2aaae60994181c877aed923cd70330557dd",
+            "times": 5
+        },
+        {
+            "amount": 600.3613034502741,
+            "cumalative": 18211.199173717,
+            "address": "0x86c5458937e51407b0af86ebf5cf9305b0038a7e",
+            "times": 5
+        },
+        {
+            "amount": 416.70263383924896,
+            "cumalative": 12640.146221029001,
+            "address": "0x2ffb0ef286951e58e392f81e3cbdc769eb3ea30d",
+            "times": 5
+        },
+        {
+            "amount": 513.2251385532588,
+            "cumalative": 15568.034057888,
+            "address": "0x4968ceacb2075680e652dd6717819bf300df1c6e",
+            "times": 4
+        },
+        {
+            "amount": 176.44810097493576,
+            "cumalative": 5352.32949261,
+            "address": "0x72478dcaaa7fc87718505daf7cb530ae9612e53a",
+            "times": 5
+        },
+        {
+            "amount": 641.5331935208933,
+            "cumalative": 19460.096273056,
+            "address": "0x121dbd0b49d9760e3f2a8a91794ddfa4f0d1a35c",
+            "times": 4
+        },
+        {
+            "amount": 384.30691252020614,
+            "cumalative": 11657.463076851,
+            "address": "0x7d9b3a68639cd6133ee69936f564f9f542d21f2c",
+            "times": 5
+        },
+        {
+            "amount": 166.8252673808121,
+            "cumalative": 5060.43303261,
+            "address": "0xbb80bd3dcd0a336d4918caf3b7f730e852a9fe4e",
+            "times": 3
+        },
+        {
+            "amount": 206.4589040875644,
+            "cumalative": 6262.669165914001,
+            "address": "0xbc2b6b1b9885636cc32786e33b88e5a5a8aff428",
+            "times": 5
+        },
+        {
+            "amount": 1173.9338363296317,
+            "cumalative": 35609.794947311,
+            "address": "0x8d461de216e439e4e366813a8e80bb47a4b5c805",
+            "times": 5
+        },
+        {
+            "amount": 2308.0875664048854,
+            "cumalative": 70012.91079324299,
+            "address": "0x83050d8a20dbbf320d0c0d9b74cea97a567715f1",
+            "times": 5
+        },
+        {
+            "amount": 64.70135683650227,
+            "cumalative": 1962.6336497500001,
+            "address": "0x01ed60bf9086d1c7f84a9f42a88d00927b855629",
+            "times": 5
+        },
+        {
+            "amount": 1250.7307452045502,
+            "cumalative": 37939.331836863,
+            "address": "0xc3fe52e38d437d6eeae8ce89c33137123b45ca44",
+            "times": 3
+        },
+        {
+            "amount": 14.431459028466115,
+            "cumalative": 437.76001755,
+            "address": "0xa20c07f94a127fd76e61fbea1019cce759225002",
+            "times": 3
+        },
+        {
+            "amount": 2445.789081651103,
+            "cumalative": 74189.911719618,
+            "address": "0xbea645da9c7f6de1f7e287759ccbfd5ab9f57c08",
+            "times": 3
+        },
+        {
+            "amount": 12.81772973178844,
+            "cumalative": 388.80958476,
+            "address": "0x18a2bceb4871a3b07234063fe82753e9e1684161",
+            "times": 5
+        },
+        {
+            "amount": 452.365354782859,
+            "cumalative": 13721.92965785,
+            "address": "0x67269dff88f3b7742fb7572800e1b66d16f0d6e2",
+            "times": 4
+        },
+        {
+            "amount": 133.83107393057125,
+            "cumalative": 4059.5959949040002,
+            "address": "0xd59e87ecaa69602894f3bc496632f06501462272",
+            "times": 4
+        },
+        {
+            "amount": 43.67049079198958,
+            "cumalative": 1324.68898521,
+            "address": "0x4bb0153dd40b1ff187c445d57c319a6076e78811",
+            "times": 3
+        },
+        {
+            "amount": 27.455597383325276,
+            "cumalative": 832.830746265,
+            "address": "0xfe993d34f9c54e5375475501a00b6d7261639077",
+            "times": 5
+        },
+        {
+            "amount": 49.445895159444866,
+            "cumalative": 1499.87855629,
+            "address": "0x746dff22206ce4e3da6d7eb4d537398be8f236d6",
+            "times": 5
+        },
+        {
+            "amount": 90.26664985076424,
+            "cumalative": 2738.124408967,
+            "address": "0xe3e2666e4f57c919ddf788e3a89ad4e0e4f1bfe9",
+            "times": 5
+        },
+        {
+            "amount": 1070.0240018429165,
+            "cumalative": 32457.821825342002,
+            "address": "0x04f6ad84ca1dcfaedc91815aaed7521153d53979",
+            "times": 5
+        },
+        {
+            "amount": 32.076504494917444,
+            "cumalative": 973.00010643,
+            "address": "0xda58d65500563404015699e3e43d8e4bb69a07b9",
+            "times": 5
+        },
+        {
+            "amount": 1102.5423344740268,
+            "cumalative": 33444.22422826,
+            "address": "0xb399e430361771abbe009185a66b4f83e362404f",
+            "times": 5
+        },
+        {
+            "amount": 73.94835627172978,
+            "cumalative": 2243.129656915,
+            "address": "0x73c21803efb4d71049ab400d394c0738172fc2f0",
+            "times": 5
+        },
+        {
+            "amount": 554.9326708513744,
+            "cumalative": 16833.179185263998,
+            "address": "0xf31ede2694bf39b4f2664840a8d0a76da1649846",
+            "times": 3
+        },
+        {
+            "amount": 723.0068571915554,
+            "cumalative": 21931.496591484,
+            "address": "0xc8b6b7548d644b2688a91fecb36f4c8e8eb6c1a1",
+            "times": 3
+        },
+        {
+            "amount": 0.5222123366252128,
+            "cumalative": 15.84064932,
+            "address": "0x5cb8b89c9aa7a2fd99e0c36cf8583d503802291f",
+            "times": 5
+        },
+        {
+            "amount": 53.044504062748125,
+            "cumalative": 1609.037796084,
+            "address": "0x84788c0144a1343756c776598f8a27b0ff3ad6d9",
+            "times": 4
+        },
+        {
+            "amount": 138.51846424873685,
+            "cumalative": 4201.782038872,
+            "address": "0xc838fea39474593adc1465b27982a6b4824313bc",
+            "times": 4
+        },
+        {
+            "amount": 32.07652263792046,
+            "cumalative": 973.000656775,
+            "address": "0xdecf812cd5cfd6775be916cffc5c84a3f3885449",
+            "times": 5
+        },
+        {
+            "amount": 259.20847677672793,
+            "cumalative": 7862.7605926100005,
+            "address": "0x20e0e86d92cc1a6ab6aa3c1b7b28760477a8d29b",
+            "times": 5
+        },
+        {
+            "amount": 80.85953017493442,
+            "cumalative": 2452.7713572579996,
+            "address": "0xd560501913611ec511d218a84b897d2fd0ec3a23",
+            "times": 5
+        },
+        {
+            "amount": 57.73782809144816,
+            "cumalative": 1751.4038316400001,
+            "address": "0x5bf2e0015318fb5e84e76f577f00a8d086dca7fd",
+            "times": 5
+        },
+        {
+            "amount": 101.04145331883268,
+            "cumalative": 3064.964414955,
+            "address": "0x14d7426997a2c5ac609906a964b4afdc6275652b",
+            "times": 5
+        },
+        {
+            "amount": 80.1913130772708,
+            "cumalative": 2432.501838575,
+            "address": "0x11ef687cfeb2e353670479f2dcc76af2bc6b3935",
+            "times": 5
+        },
+        {
+            "amount": 985.4089856049287,
+            "cumalative": 29891.132558493002,
+            "address": "0x29477a93e19f6c0469cb90bfd96123c6646ab443",
+            "times": 4
+        },
+        {
+            "amount": 2699.0761456734067,
+            "cumalative": 81873.05376179698,
+            "address": "0x23324ed44904260fe555b18e5ba95c6030b9227d",
+            "times": 5
+        },
+        {
+            "amount": 171.60970920206503,
+            "cumalative": 5205.56301091,
+            "address": "0x2cb3ffa9c8880e3ebd3ff98654e2c0686c4de4b7",
+            "times": 5
+        },
+        {
+            "amount": 442.42766060026497,
+            "cumalative": 13420.482300989,
+            "address": "0x9155edc011c8345cb63a1fe2808c3b7177fc458b",
+            "times": 5
+        },
+        {
+            "amount": 73.3629467808838,
+            "cumalative": 2225.3720020250003,
+            "address": "0xbedcf07586c1f3fc392f53e597df106e5f508d6d",
+            "times": 5
+        },
+        {
+            "amount": 26.510702385706043,
+            "cumalative": 804.16855418,
+            "address": "0x9ab339ba0a344804dc69e78e2b89edc6412c3252",
+            "times": 5
+        },
+        {
+            "amount": 65.23441423926477,
+            "cumalative": 1978.803270405,
+            "address": "0xd3fc3c95f4eb873d8b6bd0b35cb13263cb4d2d69",
+            "times": 5
+        },
+        {
+            "amount": 544.1703845343746,
+            "cumalative": 16506.718871188,
+            "address": "0x8043fc3fb4b6a3555630642bb714cc9b1236611c",
+            "times": 4
+        },
+        {
+            "amount": 6.4160063906011136,
+            "cumalative": 194.62142148,
+            "address": "0x25fde884481597170e21ceba0e2046590ca6b312",
+            "times": 5
+        },
+        {
+            "amount": 7382.17005141918,
+            "cumalative": 223928.77150480502,
+            "address": "0xb94c4ac6e7d20cf611213b09f9adfa314aa21795",
+            "times": 5
+        },
+        {
+            "amount": 106.69404519868073,
+            "cumalative": 3236.42862489,
+            "address": "0x61e54879cf26d7dd1a67ee7137b17a958386068e",
+            "times": 5
+        },
+        {
+            "amount": 29.418495362259275,
+            "cumalative": 892.372768455,
+            "address": "0xec1433e08683dd2bcf30b73fe757d1f1edf52c0e",
+            "times": 5
+        },
+        {
+            "amount": 198.1808752092807,
+            "cumalative": 6011.5656524099995,
+            "address": "0x486a57e2ee35c71dd83e6236f5c82ceef36b65b1",
+            "times": 5
+        },
+        {
+            "amount": 1126.1854778146806,
+            "cumalative": 34161.40901348,
+            "address": "0x1ca48a32482ef29708e95f248e8a613f05782ed3",
+            "times": 5
+        },
+        {
+            "amount": 123.99882661586562,
+            "cumalative": 3761.3472351249998,
+            "address": "0x2d82a31458a8dccf68d47b47c43732b6b02398e5",
+            "times": 5
+        },
+        {
+            "amount": 0.49537153157823116,
+            "cumalative": 15.02646752,
+            "address": "0x829b41afa6414f7c15f470edffe80b919a07ba54",
+            "times": 5
+        },
+        {
+            "amount": 3218.694948957753,
+            "cumalative": 97635.031535242,
+            "address": "0x603dd7240d1a999144a013ff0d5aa870b8d719d2",
+            "times": 5
+        },
+        {
+            "amount": 922.7061625731034,
+            "cumalative": 27989.121898538,
+            "address": "0xb279179b24737a988bcbca28db2e7daff733dc66",
+            "times": 5
+        },
+        {
+            "amount": 344.33937306080963,
+            "cumalative": 10445.098426772001,
+            "address": "0xcbfdd0cf2dbf60e79fe5cca56f9cb34fe270eff8",
+            "times": 5
+        },
+        {
+            "amount": 144.34446831452192,
+            "cumalative": 4378.506487665,
+            "address": "0xc24ee9ca6bacf046df7bdc4a243b69a171533bbd",
+            "times": 5
+        },
+        {
+            "amount": 79734.25937266991,
+            "cumalative": 2418637.69376797,
+            "address": "0x4de35046cb74313b96378da3a4f2a5e08d5933d0",
+            "times": 5
+        },
+        {
+            "amount": 0.4688664499706499,
+            "cumalative": 14.222469465,
+            "address": "0x60e8b62c7da32ff62fcd4ab934b75d2d28fe7501",
+            "times": 5
+        },
+        {
+            "amount": 60.009483012422464,
+            "cumalative": 1820.311604313,
+            "address": "0x8a5d999f5f34edd492f56f10c4ba62afaa432fe3",
+            "times": 3
+        },
+        {
+            "amount": 29.44347004927985,
+            "cumalative": 893.13034393,
+            "address": "0x9e5434a1193efd56bf17bc56796158862b3c5206",
+            "times": 5
+        },
+        {
+            "amount": 906.4622569012959,
+            "cumalative": 27496.383609364002,
+            "address": "0xb592157cbca197999c71a8f286a8e2df37a829c0",
+            "times": 5
+        },
+        {
+            "amount": 16901.677268812266,
+            "cumalative": 512690.95683432795,
+            "address": "0x5ec225fca8446938e4cb045b8a0b1394761e3456",
+            "times": 3
+        },
+        {
+            "amount": 851.4336312255192,
+            "cumalative": 25827.159999051,
+            "address": "0xe0a81a231f3563271e38a42b751a4c8cddeabca2",
+            "times": 3
+        },
+        {
+            "amount": 123.25586341387546,
+            "cumalative": 3738.8103881089996,
+            "address": "0xa51145675daa39707a3476d7f26868220c7ac9d3",
+            "times": 5
+        },
+        {
+            "amount": 779.0502927052364,
+            "cumalative": 23631.503171944,
+            "address": "0x82da7a2ee725185539cbd0a72c428b9b98bd350b",
+            "times": 4
+        },
+        {
+            "amount": 51.19074769642459,
+            "cumalative": 1552.806446374,
+            "address": "0xb8170b5874ae2d9cebc95f942a973422779cf245",
+            "times": 3
+        },
+        {
+            "amount": 2584.695283692263,
+            "cumalative": 78403.45529296,
+            "address": "0x43de5df2fe637bd8fb149490d39aaf21c311d5a7",
+            "times": 4
+        },
+        {
+            "amount": 1279.113175819464,
+            "cumalative": 38800.276894434,
+            "address": "0x13b3a50f3947476eda74fe191344524e2d2d28e5",
+            "times": 5
+        },
+        {
+            "amount": 134.47134605102528,
+            "cumalative": 4079.0178381240003,
+            "address": "0x4c615ada1200e54ea81a4a85f263f1c94be73dad",
+            "times": 3
+        },
+        {
+            "amount": 90.96493258161118,
+            "cumalative": 2759.305930524,
+            "address": "0x7345e98d015b2f56435080d4158aead8c992b4c7",
+            "times": 4
+        },
+        {
+            "amount": 50.86095755972886,
+            "cumalative": 1542.802680591,
+            "address": "0x067ebd37dd83805dbf24cd1c44550825e06cc0d1",
+            "times": 5
+        },
+        {
+            "amount": 368.62873538975106,
+            "cumalative": 11181.88544591,
+            "address": "0x9afe7d5b18ca238211f832bc3852f7082d5377ee",
+            "times": 5
+        },
+        {
+            "amount": 32.658668481833246,
+            "cumalative": 990.6593130719999,
+            "address": "0xcd2391c14f03dff2b67946ca8bb39bc771a52d2f",
+            "times": 4
+        },
+        {
+            "amount": 5554.082747327376,
+            "cumalative": 168476.06026170502,
+            "address": "0x0cac9c3d7196f5bbd76fadcd771fb69b772c0f9d",
+            "times": 5
+        },
+        {
+            "amount": 169.88048076041287,
+            "cumalative": 5153.109057954,
+            "address": "0x5112e5d2af3e3ea50cba48a900eaf0db7281936d",
+            "times": 3
+        },
+        {
+            "amount": 373.6084036442417,
+            "cumalative": 11332.93737061,
+            "address": "0x93f2e456d2400927c95fcbd1709aee18757b93ba",
+            "times": 5
+        },
+        {
+            "amount": 112.64716417453491,
+            "cumalative": 3417.0089433599996,
+            "address": "0xbb46c6e4d8a59520fbb11638c2d1228cc65f5a6c",
+            "times": 3
+        },
+        {
+            "amount": 951.0177262514474,
+            "cumalative": 28847.917297413,
+            "address": "0x95823011a97ba73b4d34fffa4560694b51a259ee",
+            "times": 5
+        },
+        {
+            "amount": 97.34865234881516,
+            "cumalative": 2952.9479782070002,
+            "address": "0x923916728aad471861b3eb53837d32134e35a477",
+            "times": 5
+        },
+        {
+            "amount": 126.85144149899496,
+            "cumalative": 3847.877691875,
+            "address": "0xc2c96bbc26bee25f066c6f195636303e3ded5ad6",
+            "times": 5
+        },
+        {
+            "amount": 79.3575095174287,
+            "cumalative": 2407.209464445,
+            "address": "0x0618ff3d11ff4c92a1e465a57ad1265284a492e9",
+            "times": 3
+        },
+        {
+            "amount": 40.23947776876377,
+            "cumalative": 1220.613554008,
+            "address": "0x8c547c442a37fac5d0b8651f5ec0f40033d56383",
+            "times": 5
+        },
+        {
+            "amount": 8.82103940851378,
+            "cumalative": 267.575049665,
+            "address": "0x119e175146020f51dcb4b56336b422925655e972",
+            "times": 5
+        },
+        {
+            "amount": 574.5501477007065,
+            "cumalative": 17428.250480059,
+            "address": "0x4afda543a1f3d084b8d832055fcadbb9a4bcd416",
+            "times": 5
+        },
+        {
+            "amount": 471.765447499293,
+            "cumalative": 14310.406880511,
+            "address": "0x497175a3372eb63d33741749af572a97cc0a5037",
+            "times": 3
+        },
+        {
+            "amount": 1164.0314985585342,
+            "cumalative": 35309.420082378,
+            "address": "0x4f2659d0b580fcb8cb335c16ce11b568fb19cab1",
+            "times": 5
+        },
+        {
+            "amount": 287.3190752228557,
+            "cumalative": 8715.459965892,
+            "address": "0x946a58054fadf84018ca798bddad14ebba0a042d",
+            "times": 5
+        },
+        {
+            "amount": 44.9107765073248,
+            "cumalative": 1362.311480305,
+            "address": "0xf48a881832132324f33550eaf3177f3e92908f3c",
+            "times": 5
+        },
+        {
+            "amount": 56.842477198917244,
+            "cumalative": 1724.244497185,
+            "address": "0xaecdd83cc71456c21aa92bf78f31e0c4913bc845",
+            "times": 5
+        },
+        {
+            "amount": 369.03179289197914,
+            "cumalative": 11194.111684359,
+            "address": "0x04dc9780c466a3587de9d1bad3991d3468c3d332",
+            "times": 5
+        },
+        {
+            "amount": 1191.7935890607444,
+            "cumalative": 36151.54790892,
+            "address": "0x49fcf8f63764c0d5ea6697cadb6f9bfc7fe44196",
+            "times": 5
+        },
+        {
+            "amount": 333.31329172739584,
+            "cumalative": 10110.636225237,
+            "address": "0x34dc37c5ad0bf60ee11fb818384851fe8638e12b",
+            "times": 3
+        },
+        {
+            "amount": 78.90831638963422,
+            "cumalative": 2393.583760272,
+            "address": "0x12292143b2eafda2470a14c60361c57f78d8afaf",
+            "times": 3
+        },
+        {
+            "amount": 32.076504494917444,
+            "cumalative": 973.00010643,
+            "address": "0x7c1ca89514b9de32dd0fe2730442c135216f01c7",
+            "times": 5
+        },
+        {
+            "amount": 2127.8248453480996,
+            "cumalative": 64544.869635535004,
+            "address": "0x66e84d8c06d77ff7dd4fbdf8a05fa96aaf8e872c",
+            "times": 5
+        },
+        {
+            "amount": 177.3308767802374,
+            "cumalative": 5379.107377733,
+            "address": "0xbbb209e1e31a621b0583c7a4abe6ad35bf9696d2",
+            "times": 3
+        },
+        {
+            "amount": 23.187758014055813,
+            "cumalative": 703.3712485450001,
+            "address": "0xcfc06a635dfe08abc9fa5a5d7df14d1e7a439b38",
+            "times": 5
+        },
+        {
+            "amount": 192.4251909446278,
+            "cumalative": 5836.974265653,
+            "address": "0x33b74799a4ddfd155498d1e531f74d9541e0123b",
+            "times": 3
+        },
+        {
+            "amount": 23.40961355551083,
+            "cumalative": 710.10095519,
+            "address": "0x1c04a294bd2fdaf52f29d3da100308e8e85816a6",
+            "times": 5
+        },
+        {
+            "amount": 29.70158119998154,
+            "cumalative": 900.959818527,
+            "address": "0x410a6c7d7e4bdf6b6e8a63614c8ff30bb24fd72d",
+            "times": 5
+        },
+        {
+            "amount": 349.0301068679457,
+            "cumalative": 10587.38589124,
+            "address": "0x926c5be9a0c755584fef616fcd7d05fb791b05cd",
+            "times": 5
+        },
+        {
+            "amount": 27.679389327563154,
+            "cumalative": 839.619191234,
+            "address": "0x496eaea9eb42d489001b0478fff5e4821869c4ee",
+            "times": 5
+        },
+        {
+            "amount": 51.12929092489574,
+            "cumalative": 1550.942233107,
+            "address": "0x5711abc38beb099f7324272c9302561e0a893011",
+            "times": 3
+        },
+        {
+            "amount": 372.50661561329,
+            "cumalative": 11299.516027223,
+            "address": "0x2f139371f5d7ceeb0b83df17086c6fe44132058d",
+            "times": 5
+        },
+        {
+            "amount": 50.02906291350387,
+            "cumalative": 1517.568210936,
+            "address": "0x803e9401b03f36f7ede8d2e4df5036decb8605d9",
+            "times": 3
+        },
+        {
+            "amount": 993.5030200079331,
+            "cumalative": 30136.654832805,
+            "address": "0xdd5b52a1c4287ac0848028d3bd507c7bd2ffdf98",
+            "times": 5
+        },
+        {
+            "amount": 55.62202519360372,
+            "cumalative": 1687.223632544,
+            "address": "0xcd3a4d2a7812664dbdbfbc8d1c6f9465e1ded9f6",
+            "times": 4
+        },
+        {
+            "amount": 41.391797951824174,
+            "cumalative": 1255.5677261790001,
+            "address": "0xd9a570e924608c0f70e24be1116ecc5e755822a9",
+            "times": 3
+        },
+        {
+            "amount": 50.698714734573876,
+            "cumalative": 1537.881250135,
+            "address": "0xdc9e7a6a086dbb784c7bd7d84b4884b0ea1f168a",
+            "times": 5
+        },
+        {
+            "amount": 14.434439040274494,
+            "cumalative": 437.850412431,
+            "address": "0x50e4c59ed28f45948c9ddd99821772c9faa016d4",
+            "times": 3
+        },
+        {
+            "amount": 240.6414522903836,
+            "cumalative": 7299.553438783,
+            "address": "0xe4e70873158cb1d61c993d3abd7d5cf24da8acf3",
+            "times": 5
+        },
+        {
+            "amount": 160.46063385165252,
+            "cumalative": 4867.369941766,
+            "address": "0xb324c53873d688189b4636d130108461941da7e7",
+            "times": 5
+        },
+        {
+            "amount": 17383.828158078642,
+            "cumalative": 527316.392927149,
+            "address": "0x2e4acd4d8051b9d4febdad7e2182f6a1fc4b16e2",
+            "times": 5
+        },
+        {
+            "amount": 276.19840083218014,
+            "cumalative": 8378.128403863,
+            "address": "0x6a8eeee36ceb102acc06e850b01d168ba7acad7a",
+            "times": 5
+        },
+        {
+            "amount": 25.5213739498138,
+            "cumalative": 774.158530065,
+            "address": "0x0d60f02f0004f8ba0a747164873fd588c56c0e19",
+            "times": 5
+        },
+        {
+            "amount": 90.4375958384174,
+            "cumalative": 2743.309838826,
+            "address": "0x18c34172dce897449511f456816ce219c16b3418",
+            "times": 3
+        },
+        {
+            "amount": 25.652206357360452,
+            "cumalative": 778.127165316,
+            "address": "0x4c509e5e15cf08e93cff1afb62f888b11e827e65",
+            "times": 4
+        },
+        {
+            "amount": 103.39422567826095,
+            "cumalative": 3136.332782306,
+            "address": "0xa04a6f32bd61143139286ab29fb5e4d43800d8a0",
+            "times": 5
+        },
+        {
+            "amount": 850.9727517185373,
+            "cumalative": 25813.179803378003,
+            "address": "0xf422c173264dcd512e3cee0db4acb568707c0b8d",
+            "times": 5
+        },
+        {
+            "amount": 52340.242816584825,
+            "cumalative": 1587674.923842731,
+            "address": "0xa1870f48fc2ea38bcca5eaa75feaebe6b3eadde6",
+            "times": 3
+        },
+        {
+            "amount": 83.05918450999278,
+            "cumalative": 2519.4950834190004,
+            "address": "0x60c0c1e04b4a6630e4c6ade9bba1fcf916a066b6",
+            "times": 3
+        },
+        {
+            "amount": 32.071138105038585,
+            "cumalative": 972.8373237949999,
+            "address": "0x9aa1652fb73a404a04e81d709d3d83254d6e143f",
+            "times": 5
+        },
+        {
+            "amount": 7704.262707090535,
+            "cumalative": 233699.043957597,
+            "address": "0xb60bfd02207823360263ed5886c9f3c240a05045",
+            "times": 5
+        },
+        {
+            "amount": 313.35767120139013,
+            "cumalative": 9505.307770612,
+            "address": "0x14c2a505a677f48742c271d8e772763852e84b16",
+            "times": 4
+        },
+        {
+            "amount": 1025.7503967779132,
+            "cumalative": 31114.838133116,
+            "address": "0xc0efbc4df660974dca29f284f3487c2239da92f5",
+            "times": 5
+        },
+        {
+            "amount": 35.94624200686905,
+            "cumalative": 1090.3836889079998,
+            "address": "0x34d9c93d89bcd348da8dd5f243d5403aa5eec75f",
+            "times": 3
+        },
+        {
+            "amount": 9842.845444221428,
+            "cumalative": 298570.240604583,
+            "address": "0x9a69e4f3f8cf0e3ebe37236b2fe4be2c6004180f",
+            "times": 3
+        },
+        {
+            "amount": 338.60668918677214,
+            "cumalative": 10271.204727711,
+            "address": "0xb4e1d84ec6439d91b877e60a7218ede95dfe649b",
+            "times": 3
+        },
+        {
+            "amount": 645.7024872656045,
+            "cumalative": 19586.566514162998,
+            "address": "0xcd8dfde5c0af50e7a904251e7c5f6c31f699303e",
+            "times": 5
+        },
+        {
+            "amount": 11.835885489874165,
+            "cumalative": 359.02658418299995,
+            "address": "0x782ded21e314d25c67178f19d257fc3aca679071",
+            "times": 3
+        },
+        {
+            "amount": 2714.4390134348137,
+            "cumalative": 82339.066882687,
+            "address": "0xb43fbb4a6e89b076cc45de8e789e634821a83d58",
+            "times": 5
+        },
+        {
+            "amount": 87.89072966383642,
+            "cumalative": 2666.053881609,
+            "address": "0x20314472378e8d96899bba5681604de121130324",
+            "times": 3
+        },
+        {
+            "amount": 35.8008202990704,
+            "cumalative": 1085.972505726,
+            "address": "0x74734212d3b18ca3bf658f9ee713dc3b9ca16eae",
+            "times": 3
+        },
+        {
+            "amount": 153.5496696452599,
+            "cumalative": 4657.73460231,
+            "address": "0x0840661851621257a87803f1a1c76f290fbcb565",
+            "times": 5
+        },
+        {
+            "amount": 10348.557902738616,
+            "cumalative": 313910.38703600504,
+            "address": "0x42eaf8b6bbeac348908d7781a4b0ba1787fca1e4",
+            "times": 5
+        },
+        {
+            "amount": 65.45854206376416,
+            "cumalative": 1985.601903876,
+            "address": "0x5902385d185ab3a38f2a0ca9b244979124962793",
+            "times": 4
+        },
+        {
+            "amount": 428.84421347791687,
+            "cumalative": 13008.445649744,
+            "address": "0xfa53494bce0f7b2fc0f8486edfb5428d27050e85",
+            "times": 5
+        },
+        {
+            "amount": 187.5100846255638,
+            "cumalative": 5687.880745431,
+            "address": "0x76e399714e1d3467affa4f54c0bdeb240cbb640c",
+            "times": 5
+        },
+        {
+            "amount": 241.79301716853678,
+            "cumalative": 7334.484699737,
+            "address": "0x68a46782db5d1a89d5c8dee08f2a20ae9c8319ce",
+            "times": 5
+        },
+        {
+            "amount": 16.745346076119777,
+            "cumalative": 507.948848256,
+            "address": "0x4e00f511056608734d306f9ba663d4e5279b92aa",
+            "times": 4
+        },
+        {
+            "amount": 26.90771489399587,
+            "cumalative": 816.2114254,
+            "address": "0xb13cea39a360d03198d8031ae00bc3150bcf598b",
+            "times": 4
+        },
+        {
+            "amount": 980.847475057371,
+            "cumalative": 29752.764917811997,
+            "address": "0xda5623a8aea1a1c6cfca32b76c14a4fd1ed84037",
+            "times": 5
+        },
+        {
+            "amount": 368.40463602047066,
+            "cumalative": 11175.087675592,
+            "address": "0x426d38e322fdded7031284f07caaa7d6dab83aee",
+            "times": 4
+        },
+        {
+            "amount": 4950.577011134164,
+            "cumalative": 150169.478706344,
+            "address": "0x4307e28901f2c8010bf257f14ff5526d9c0e0ebc",
+            "times": 5
+        },
+        {
+            "amount": 921.7889891936329,
+            "cumalative": 27961.300606602,
+            "address": "0x8551a130d55ede76b6316f06c74b4f10637a0a6c",
+            "times": 5
+        },
+        {
+            "amount": 57.39830956906374,
+            "cumalative": 1741.104967608,
+            "address": "0xdea6603605a482d9e4d76870e37b80d6a8b61b37",
+            "times": 4
+        },
+        {
+            "amount": 86.2750060871265,
+            "cumalative": 2617.042954862,
+            "address": "0xd8708f3a041feb7f50ecc0e7404ce0319c05946b",
+            "times": 3
+        },
+        {
+            "amount": 27.90964388299111,
+            "cumalative": 846.6036713220001,
+            "address": "0xf106a338df15b542d127e63156d9989dcb667240",
+            "times": 5
+        },
+        {
+            "amount": 9.444182658320486,
+            "cumalative": 286.477310305,
+            "address": "0x54865276244ae9d655bcb2bb60033653886c757c",
+            "times": 5
+        },
+        {
+            "amount": 2469.013121782716,
+            "cumalative": 74894.383540211,
+            "address": "0xaff1e3c15e0d278e00ebcc710e61aa59cb0f656e",
+            "times": 5
+        },
+        {
+            "amount": 717.1064827085112,
+            "cumalative": 21752.516210349,
+            "address": "0x4c9c3626cf1828da7b58a50dc2f6aa2c4546609e",
+            "times": 3
+        },
+        {
+            "amount": 223.04138738000583,
+            "cumalative": 6765.6777780580005,
+            "address": "0xc6a7f15d82a1ec99093447ca023e826904a3a442",
+            "times": 4
+        },
+        {
+            "amount": 18.82425639661581,
+            "cumalative": 571.0099577799999,
+            "address": "0x8771f57801460881da766acf80f7cc0d96d66dcd",
+            "times": 5
+        },
+        {
+            "amount": 22917.22747254814,
+            "cumalative": 695165.0474696541,
+            "address": "0xa97a856a4622e5a59b4bd0b61fde18c0076b3b51",
+            "times": 5
+        },
+        {
+            "amount": 197.79959498221356,
+            "cumalative": 6000,
+            "address": "0xffedcdac8ba51be3101607fab1b44462c3015fb0",
+            "times": 5
+        },
+        {
+            "amount": 728.8929021567533,
+            "cumalative": 22110.042304857998,
+            "address": "0x8ad7262bd982a5cf233e0a3b0c585596900496b2",
+            "times": 4
+        },
+        {
+            "amount": 134.55932431539628,
+            "cumalative": 4081.68654726,
+            "address": "0x4f7dbfe731f151608ed4c83123a15a8ef1ecd41d",
+            "times": 4
+        },
+        {
+            "amount": 324.03282125537874,
+            "cumalative": 9829.124916596,
+            "address": "0xeef0d258918ade7cd0c3a089b8f2e08304043b7b",
+            "times": 3
+        },
+        {
+            "amount": 691.6287179458167,
+            "cumalative": 20979.680509700003,
+            "address": "0xef592f0cc7f8ba76f181ccff0c1b5754ec3b0657",
+            "times": 5
+        },
+        {
+            "amount": 183.38918521572987,
+            "cumalative": 5562.878485132,
+            "address": "0xc6e4ad3ccdfc65687d2d60a454a8bddc1f4d6c06",
+            "times": 4
+        },
+        {
+            "amount": 75.3037378499506,
+            "cumalative": 2284.243439125,
+            "address": "0x6a5ac7a5990ee13bcf71a5be81f1a4822c3a3601",
+            "times": 5
+        },
+        {
+            "amount": 71.27754933454224,
+            "cumalative": 2162.114113761,
+            "address": "0x46ef376984edc12bdb7183022230b3e4f0964ab2",
+            "times": 5
+        },
+        {
+            "amount": 2084.568807952963,
+            "cumalative": 63232.752568793,
+            "address": "0x3906b3ab3add00af4c885900c3a3b70a2b447e4c",
+            "times": 5
+        },
+        {
+            "amount": 521.9626998454485,
+            "cumalative": 15833.076904704001,
+            "address": "0xe449f7b8a76c3c02b87e41f9b529f74eb8a1f3c1",
+            "times": 3
+        },
+        {
+            "amount": 233.6986923293983,
+            "cumalative": 7088.953615413,
+            "address": "0xc0e797da188e78a77d62032e4a228921593ac568",
+            "times": 3
+        },
+        {
+            "amount": 86.60660192445684,
+            "cumalative": 2627.101494285,
+            "address": "0x43ca65e6ce1844815b868438ec417186922d8a35",
+            "times": 5
+        },
+        {
+            "amount": 1060.7359032794304,
+            "cumalative": 32176.079128215002,
+            "address": "0xcf9dfb1a6c84c1817257326485d81f270fc208ed",
+            "times": 5
+        },
+        {
+            "amount": 685.89206051966,
+            "cumalative": 20805.666277972,
+            "address": "0x38400b6bbd2b19d7b4a4c3559bcbb0fe1ef45ec3",
+            "times": 3
+        },
+        {
+            "amount": 186.80865909473192,
+            "cumalative": 5666.60389102,
+            "address": "0x25dbeb6565778b8570f8936165370348f16e7e88",
+            "times": 4
+        },
+        {
+            "amount": 42.08797198922134,
+            "cumalative": 1276.685283193,
+            "address": "0x362eccdadc0260f30f90dbe18417ed756b3589c0",
+            "times": 5
+        },
+        {
+            "amount": 62.077283793986645,
+            "cumalative": 1883.035720055,
+            "address": "0x217bc9ebd4027d6c135ddfd85d518857679aa8a2",
+            "times": 5
+        },
+        {
+            "amount": 335.1550710081045,
+            "cumalative": 10166.504265235999,
+            "address": "0x06c2af720b98a501ea7f18b061aa849c09b28b6e",
+            "times": 5
+        },
+        {
+            "amount": 43.9069125026823,
+            "cumalative": 1331.860538136,
+            "address": "0x5e1225c1834989ce9633bb50b75048f0d5bf54a4",
+            "times": 4
+        },
+        {
+            "amount": 125.17239517389277,
+            "cumalative": 3796.9459498180004,
+            "address": "0x4f6c52b34387bf5aa3c32981b7502e72fe950890",
+            "times": 5
+        },
+        {
+            "amount": 191.16226554209547,
+            "cumalative": 5798.6650243429995,
+            "address": "0xb3308db65431a6dc3e6e0bb48af6b9f5ccc46647",
+            "times": 5
+        },
+        {
+            "amount": 0.7808107548600638,
+            "cumalative": 23.68490456,
+            "address": "0xe7a6adc4dc19208b7443ac89668b12b3be898728",
+            "times": 5
+        },
+        {
+            "amount": 3384.17149650087,
+            "cumalative": 102654.552861097,
+            "address": "0x0af033752b157b7ccfd0cb94e12b1f636a7e668a",
+            "times": 5
+        },
+        {
+            "amount": 116.11895469016385,
+            "cumalative": 3522.3213081080003,
+            "address": "0x454bb0ce73196c9e247d38b2effc487a631046b3",
+            "times": 5
+        },
+        {
+            "amount": 275.3422244966397,
+            "cumalative": 8352.157379940001,
+            "address": "0x58c8ff99c94007674c19ced6c69aa202386fdcc6",
+            "times": 5
+        },
+        {
+            "amount": 539.2682692114955,
+            "cumalative": 16358.019416369,
+            "address": "0xc18d0a556bc6dca9369cc8ac0b4640bf4fa2c167",
+            "times": 5
+        },
+        {
+            "amount": 2932.5982666481427,
+            "cumalative": 88956.651308973,
+            "address": "0x1965bf52d4f8f886e891be0d91324c729cf199e5",
+            "times": 3
+        },
+        {
+            "amount": 2309.765300094722,
+            "cumalative": 70063.802718173,
+            "address": "0xf0d65bf0e78d7513c64e7dc74b7544bd8950df01",
+            "times": 4
+        },
+        {
+            "amount": 661.2896995520437,
+            "cumalative": 20059.38484186,
+            "address": "0x331267b9b0bdeaf14fa8f1fa96558f5680e84986",
+            "times": 3
+        },
+        {
+            "amount": 213.85716538533526,
+            "cumalative": 6487.086044981001,
+            "address": "0x74522852bfe0fca17ba4d0f16dea9f144abfc637",
+            "times": 4
+        },
+        {
+            "amount": 171.02582662041235,
+            "cumalative": 5187.851672875,
+            "address": "0x8c578a78a0883659359291297dea5aa6f5ab048e",
+            "times": 5
+        },
+        {
+            "amount": 5428.017139614879,
+            "cumalative": 164652.019841688,
+            "address": "0x0178a929e24b3caea0f05ab4d20f611419177ed3",
+            "times": 4
+        },
+        {
+            "amount": 103.03665953746179,
+            "cumalative": 3125.486466645,
+            "address": "0x6423a3dda806a05521646783e849f44179b6583a",
+            "times": 3
+        },
+        {
+            "amount": 170.74994767478955,
+            "cumalative": 5179.48323474,
+            "address": "0x53d5dec09f7f553b0667fc980d5a9d8c5a7f4b9d",
+            "times": 5
+        },
+        {
+            "amount": 651.2253915267319,
+            "cumalative": 19754.096814564997,
+            "address": "0xd210e56cb1a63ae6711e21640f03bfdb9d40ee9e",
+            "times": 3
+        },
+        {
+            "amount": 230.45978878846975,
+            "cumalative": 6990.705581855,
+            "address": "0x0fd73ea2391d2ee5806a15a22e67d583a403409b",
+            "times": 5
+        },
+        {
+            "amount": 90.51367617245067,
+            "cumalative": 2745.617639326,
+            "address": "0xfc03750e44a39e94e9a439c06bc1be93eba040e5",
+            "times": 3
+        },
+        {
+            "amount": 867.3770275555814,
+            "cumalative": 26310.782718242997,
+            "address": "0x5b3e86a79f76a26fba5e86b9bae027aecb6dbaed",
+            "times": 4
+        },
+        {
+            "amount": 9735.589460700818,
+            "cumalative": 295316.766292962,
+            "address": "0x8f5f266716a2bebbc5cd54b63852f831d2f75aee",
+            "times": 3
+        },
+        {
+            "amount": 83.10752033377189,
+            "cumalative": 2520.961289366999,
+            "address": "0x31249dfd269497cc77a95f804a6ae6da6cfa7b3c",
+            "times": 5
+        },
+        {
+            "amount": 74.16970522056526,
+            "cumalative": 2249.843996715,
+            "address": "0x07b40f7bd3407c8f49500c441169c97981afabd9",
+            "times": 3
+        },
+        {
+            "amount": 596.8453467952614,
+            "cumalative": 18104.547085112,
+            "address": "0xa245b0140b01aaad771983a732323a71ee2911fb",
+            "times": 4
+        },
+        {
+            "amount": 19.01194653275899,
+            "cumalative": 576.70330016,
+            "address": "0xacf9da14b9e25123791907f2c29f6137b29f1833",
+            "times": 5
+        },
+        {
+            "amount": 166.4861426539161,
+            "cumalative": 5050.146113864999,
+            "address": "0x0729d1cc016cd1b5a33eab274195c6b93cf21e16",
+            "times": 5
+        },
+        {
+            "amount": 43.52876316648206,
+            "cumalative": 1320.389857332,
+            "address": "0x90d612d367265f49cfd663cc17310a4079864e8c",
+            "times": 3
+        },
+        {
+            "amount": 268.89340477281405,
+            "cumalative": 8156.540607587999,
+            "address": "0x16c82c25a72a0885308bedb07e496f51c2978d69",
+            "times": 5
+        },
+        {
+            "amount": 4665.602800857757,
+            "cumalative": 141525.147246453,
+            "address": "0x93beca36d5bcdc7be0f9ca38b1b5f5f5292aa859",
+            "times": 3
+        },
+        {
+            "amount": 305.98323786716907,
+            "cumalative": 9281.613682617,
+            "address": "0x78e37187998bf8886e13c50252815f2571e4fc6e",
+            "times": 5
+        },
+        {
+            "amount": 558.6694307938864,
+            "cumalative": 16946.529061724,
+            "address": "0x0bcd59f8deb55e80dcc988c427212fefe6ae0a1b",
+            "times": 5
+        },
+        {
+            "amount": 900.6112077168675,
+            "cumalative": 27318.899448642,
+            "address": "0xf57d86f6bfcc76aa2c7f62616b2436c60ad397e2",
+            "times": 5
+        },
+        {
+            "amount": 912.6267489804761,
+            "cumalative": 27683.375663005,
+            "address": "0x6c03bf00e9037c35c5b9dd56bb2069a1c8e76b65",
+            "times": 4
+        },
+        {
+            "amount": 65.86489948831617,
+            "cumalative": 1997.9282412859998,
+            "address": "0x1e022fe7ec25d21d2af2aa17f7275abd6b22a438",
+            "times": 3
+        },
+        {
+            "amount": 112.74147562012884,
+            "cumalative": 3419.869761521,
+            "address": "0xc0ac56535c3104d2f2c8079c263b4b6ecb7bc286",
+            "times": 3
+        },
+        {
+            "amount": 47.04891895709599,
+            "cumalative": 1427.169321393,
+            "address": "0xab7e73662a6f233c1cac5a0709012c21c93cb951",
+            "times": 5
+        },
+        {
+            "amount": 255.0890425684158,
+            "cumalative": 7737.802777342,
+            "address": "0xaef83d3575c69bb3acf0fc79cd6ac42dcc674ec4",
+            "times": 5
+        },
+        {
+            "amount": 748.5140284710845,
+            "cumalative": 22705.224301548,
+            "address": "0x4110eaea3238a43ae51f008605f3b374e5c51ebf",
+            "times": 5
+        },
+        {
+            "amount": 54.56105697790483,
+            "cumalative": 1655.040506513,
+            "address": "0xfe0a76ec0fce9f0458863c12b2dcfec156e935c8",
+            "times": 3
+        },
+        {
+            "amount": 7316.785861292224,
+            "cumalative": 221945.42497268997,
+            "address": "0xb6fe57291cf1671d908fdfa4589e65780be99f08",
+            "times": 5
+        },
+        {
+            "amount": 243.7816608209834,
+            "cumalative": 7394.8076843,
+            "address": "0x7ee979907ad5df81c73614071e5ca55b6cc9f58e",
+            "times": 4
+        },
+        {
+            "amount": 48.91909726955598,
+            "cumalative": 1483.898810024,
+            "address": "0x7e2439f2435cbc857142377d66a1825c37befa88",
+            "times": 4
+        },
+        {
+            "amount": 302.97674135650914,
+            "cumalative": 9190.415421743,
+            "address": "0x1317f65f9d787ce649450e4f57e251a3588c4593",
+            "times": 5
+        },
+        {
+            "amount": 645.0160875959064,
+            "cumalative": 19565.745450204,
+            "address": "0x308c6bd52a247e367e315f081b9866ee62150eb2",
+            "times": 3
+        },
+        {
+            "amount": 42.761494054418236,
+            "cumalative": 1297.1157213420001,
+            "address": "0x46917890a173a6c119f172aac9bf65a2e9a2e6a7",
+            "times": 3
+        },
+        {
+            "amount": 243.4133564726408,
+            "cumalative": 7383.635638723999,
+            "address": "0x2c8103130fa24fc35540de33db777f6895fa228d",
+            "times": 3
+        },
+        {
+            "amount": 13.768432929011272,
+            "cumalative": 417.647961218,
+            "address": "0x5f9ba4c5b45ca8e953f923debd35ac97b46ed91b",
+            "times": 5
+        },
+        {
+            "amount": 4.143547337098394,
+            "cumalative": 125.689256466,
+            "address": "0xe1b9b2cc47d73821b85aa904093229db1c71944c",
+            "times": 3
+        },
+        {
+            "amount": 583.5930962725301,
+            "cumalative": 17702.55686292,
+            "address": "0x8336ed34430babbe3b0ebb34776c1f0ca6adb9a8",
+            "times": 5
+        },
+        {
+            "amount": 1092.2191372943832,
+            "cumalative": 33131.083126614,
+            "address": "0x676ad7483786fbc7d8d3af7995075c8d7cc5e713",
+            "times": 5
+        },
+        {
+            "amount": 115.11106641079495,
+            "cumalative": 3491.748294666,
+            "address": "0xc24cd43339080cab7aa47969c81cbcfe4fb6ae29",
+            "times": 3
+        },
+        {
+            "amount": 57791.50451243805,
+            "cumalative": 1753032.0378351053,
+            "address": "0x771add5860f776dc6f1330585548f1bd5494f6ed",
+            "times": 5
+        },
+        {
+            "amount": 35.15621246147175,
+            "cumalative": 1066.4191440220002,
+            "address": "0x237af3c5fd488269f0812409a4b111c922e7ee88",
+            "times": 4
+        },
+        {
+            "amount": 57.85917617268797,
+            "cumalative": 1755.0847718739997,
+            "address": "0x438abb8db93d6842dad49dbd45c25ea3f9363c4c",
+            "times": 5
+        },
+        {
+            "amount": 1201.8956197700854,
+            "cumalative": 36457.980206021,
+            "address": "0xe68ff5eb7632192fd889daaf0cdb5eb757fdfaab",
+            "times": 5
+        },
+        {
+            "amount": 2635.455654161484,
+            "cumalative": 79943.206791656,
+            "address": "0x75f498bd58c7e9e4d61ccdd05e6a7b164f689e75",
+            "times": 4
+        },
+        {
+            "amount": 24.057438066693766,
+            "cumalative": 729.7518906099999,
+            "address": "0x82ab72623b1e29942781df85bd6a49326a977333",
+            "times": 5
+        },
+        {
+            "amount": 588.9032860003567,
+            "cumalative": 17863.634737573,
+            "address": "0x59e40fc2777dee91fbe4024dc3fe38a540eb3424",
+            "times": 4
+        },
+        {
+            "amount": 1532.7890303934253,
+            "cumalative": 46495.2124052,
+            "address": "0x838fa017ee134d7345a9d04f3e99902296f01f03",
+            "times": 4
+        },
+        {
+            "amount": 655.9733907079136,
+            "cumalative": 19898.12135157,
+            "address": "0x9835d6be917cf72dbf9b4ea74a2908afcf3b3986",
+            "times": 5
+        },
+        {
+            "amount": 481.1509521069703,
+            "cumalative": 14595.104266524999,
+            "address": "0x56525132876ea6e89f2ab80fcfb822c1a364cd77",
+            "times": 5
+        },
+        {
+            "amount": 46.73041673055639,
+            "cumalative": 1417.507960057,
+            "address": "0xf66bd1f4465744279c139b2c661d173c0c324ced",
+            "times": 4
+        },
+        {
+            "amount": 5775.822277252339,
+            "cumalative": 175202.24784398702,
+            "address": "0x2731de8b5d5d88ddcfe8057b639cb71e5f6f9b2b",
+            "times": 5
+        },
+        {
+            "amount": 77.23339153079267,
+            "cumalative": 2342.77703767,
+            "address": "0x431609225691b672a6570ac6db32d885cc40f0ba",
+            "times": 5
+        },
+        {
+            "amount": 4686.908085075993,
+            "cumalative": 142171.416038464,
+            "address": "0x9ec88ebd4ffafbea9ba53cfbb9c4ece028a69ccc",
+            "times": 4
+        },
+        {
+            "amount": 52.857903774912124,
+            "cumalative": 1603.3775128710001,
+            "address": "0xddddc0755cd67592515cfb0c2ae4db9e9523841d",
+            "times": 5
+        },
+        {
+            "amount": 89.22122356299064,
+            "cumalative": 2706.41272762,
+            "address": "0xe15a79d7356c11979619e8cd01add69d7ed3fc18",
+            "times": 5
+        },
+        {
+            "amount": 1093.525593814084,
+            "cumalative": 33170.712829187,
+            "address": "0x702132b5b394eda0e0903d6d0063959e4b33c17f",
+            "times": 5
+        },
+        {
+            "amount": 22.46279234571091,
+            "cumalative": 681.3803339000001,
+            "address": "0x96169fbdd404dc7b02dfcafc6c19451ff80aaf34",
+            "times": 5
+        },
+        {
+            "amount": 39.49067115228176,
+            "cumalative": 1197.89945442,
+            "address": "0xf35825365b49d0ff2c76ad90a68bd8b64e992149",
+            "times": 4
+        },
+        {
+            "amount": 208.71009700445498,
+            "cumalative": 6330.956249629,
+            "address": "0x2eb6e4035941e1bff2b880b263659ef95c41f39b",
+            "times": 3
+        },
+        {
+            "amount": 272.6505118840198,
+            "cumalative": 8270.50768962,
+            "address": "0x822cf63ebe25cf85fa139a80b3ded8418b5c830f",
+            "times": 5
+        },
+        {
+            "amount": 86.92611793329355,
+            "cumalative": 2636.7936074219997,
+            "address": "0x6aea94e4d33185c008c65940d74074aee3a449d5",
+            "times": 3
+        },
+        {
+            "amount": 2181.6822571160073,
+            "cumalative": 66178.565956483,
+            "address": "0xf512147180ebf2273636eb2a8547424f90410d51",
+            "times": 5
+        },
+        {
+            "amount": 736.6765698286805,
+            "cumalative": 22346.149997777,
+            "address": "0xbb85bc74ef98f26b4cae164516cf25629f2641eb",
+            "times": 5
+        },
+        {
+            "amount": 114.22191297593224,
+            "cumalative": 3464.776952234,
+            "address": "0xc8d37ce5761ac85d14f160c3aaa2d6e0bc3dc359",
+            "times": 5
+        },
+        {
+            "amount": 4674.24318129822,
+            "cumalative": 141787.24223531,
+            "address": "0xbf2b89dcc2e65fd91e91a3d49721a443abcd8f6a",
+            "times": 5
+        },
+        {
+            "amount": 209.66901609001656,
+            "cumalative": 6360.043844646001,
+            "address": "0xd69124de9ee76d7c77c692f69bb01a872ba77958",
+            "times": 5
+        },
+        {
+            "amount": 37.904454125826334,
+            "cumalative": 1149.7835714750001,
+            "address": "0xd79289e8d2d35068da9e7d21e67d7353bf212f21",
+            "times": 5
+        },
+        {
+            "amount": 254.2870486059732,
+            "cumalative": 7713.475307029999,
+            "address": "0xfaaaf517dadcc1a933c5ebac6e7b594e5ed2157d",
+            "times": 5
+        },
+        {
+            "amount": 411.9709817411119,
+            "cumalative": 12496.617552068,
+            "address": "0x6962d791a0a6df1b9c8759d9751544c99a621f05",
+            "times": 4
+        },
+        {
+            "amount": 119.50634840268935,
+            "cumalative": 3625.073602808,
+            "address": "0xafe2f334838bb438855a834488d30823fb56ac23",
+            "times": 4
+        },
+        {
+            "amount": 2084.1049809336355,
+            "cumalative": 63218.682964069,
+            "address": "0xd0b4e9b22e0c0fc986f35a9a2434c4f4afd55e9e",
+            "times": 5
+        },
+        {
+            "amount": 189.8412265327453,
+            "cumalative": 5758.592980429999,
+            "address": "0x0443990c4f81c3ae2ef88ce57394108385a274f7",
+            "times": 5
+        },
+        {
+            "amount": 3007.674996265683,
+            "cumalative": 91234.00874110399,
+            "address": "0x368a2d5cd67bb2c4c742d9482aa09f3126aa0f52",
+            "times": 5
+        },
+        {
+            "amount": 173.5318306434405,
+            "cumalative": 5263.868128518,
+            "address": "0xbe540de910ba1f7d2c0963c00cc2731834edf86a",
+            "times": 3
+        },
+        {
+            "amount": 789.0169340202157,
+            "cumalative": 23933.828603375005,
+            "address": "0x54f4c99a477fb2d8c9644b4085c3c0da740bee7e",
+            "times": 5
+        },
+        {
+            "amount": 397.5414874943629,
+            "cumalative": 12058.917133681,
+            "address": "0x1772ff2efff8b0b8e1e51d30fa972201c01dd466",
+            "times": 5
+        },
+        {
+            "amount": 175.41478423550646,
+            "cumalative": 5320.985139063,
+            "address": "0x15e476621a3d8e9d21d98f8d44654bcce97102d7",
+            "times": 3
+        },
+        {
+            "amount": 292.6090461322337,
+            "cumalative": 8875.924528315001,
+            "address": "0xf55a708ebf7f1c5a75217a14d6bddc1d20a0ec99",
+            "times": 3
+        },
+        {
+            "amount": 33.35401988403339,
+            "cumalative": 1011.75191649,
+            "address": "0xc32b7438b3df7844c9ee799930a2224fe6e26426",
+            "times": 3
+        },
+        {
+            "amount": 113.80178108890038,
+            "cumalative": 3452.032783964,
+            "address": "0xed66ce7eee03790056ca5ba5ee61bc4f77ba2ded",
+            "times": 4
+        },
+        {
+            "amount": 56.21882855993672,
+            "cumalative": 1705.3269062050001,
+            "address": "0x90681b9c5e7171d780fa049d96ebc5b7156dbb37",
+            "times": 5
+        },
+        {
+            "amount": 0.34864457448265623,
+            "cumalative": 10.575691254999999,
+            "address": "0x7cdfc314b89a851054a9acc324171bf8a31593e9",
+            "times": 5
+        },
+        {
+            "amount": 276.91943297509897,
+            "cumalative": 8400,
+            "address": "0x1b63ca27c1911d89e6db6ad8049e49d2ebd042d9",
+            "times": 5
+        },
+        {
+            "amount": 134.7481951170252,
+            "cumalative": 4087.415703631,
+            "address": "0xe9010f05a7895c2706b16fb2a08ce8996065b5ae",
+            "times": 5
+        },
+        {
+            "amount": 88.21040424643266,
+            "cumalative": 2675.75080488,
+            "address": "0x28b37d7f235fe68cf073beb87e78978bc38eecba",
+            "times": 5
+        },
+        {
+            "amount": 316.2016255814929,
+            "cumalative": 9591.57552198,
+            "address": "0x94bb2eb0c3baff96ccde4f6e64d038fda4285009",
+            "times": 3
+        },
+        {
+            "amount": 335.7729448700417,
+            "cumalative": 10185.246685674001,
+            "address": "0x2721f53958f0eb3dde0bdba137e4357cc061ba8e",
+            "times": 3
+        },
+        {
+            "amount": 973.3908672371329,
+            "cumalative": 29526.578170940997,
+            "address": "0x64463ec252493ca5e7ae083bf820568dec1ed1da",
+            "times": 5
+        },
+        {
+            "amount": 39.6486673444825,
+            "cumalative": 1202.692068648,
+            "address": "0x969b4c148f459b3353a869531b5b5cc6c0fab3b4",
+            "times": 5
+        },
+        {
+            "amount": 279.5420610339477,
+            "cumalative": 8479.554097947,
+            "address": "0x7ab5748c6cdc315e1810649f78b380c84898c648",
+            "times": 5
+        },
+        {
+            "amount": 335.2594369921943,
+            "cumalative": 10169.670075078,
+            "address": "0x306517609fa36731af2ac4fb422f9ae89421ddbb",
+            "times": 3
+        },
+        {
+            "amount": 398.67794506865187,
+            "cumalative": 12093.390133720999,
+            "address": "0xd344997043752f0966409a7c032bc32d49c66bdb",
+            "times": 3
+        },
+        {
+            "amount": 13.40135254669452,
+            "cumalative": 406.5130431,
+            "address": "0x3dccd3bd797061cadffab6f195123e590628d560",
+            "times": 5
+        },
+        {
+            "amount": 222.41904745672716,
+            "cumalative": 6746.799885310001,
+            "address": "0x73050f3368bfc79fd57f7fae54dcb00cb9e68774",
+            "times": 5
+        },
+        {
+            "amount": 64.3244396407258,
+            "cumalative": 1951.200344364,
+            "address": "0x79f0a3f1601ea83098fd70bc46c947bb20ca9b34",
+            "times": 5
+        },
+        {
+            "amount": 607.9815991500145,
+            "cumalative": 18442.351184936,
+            "address": "0x3cd19fce3d523de31aa319ee3723dd5499e38879",
+            "times": 3
+        },
+        {
+            "amount": 2712.901248328401,
+            "cumalative": 82292.420727323,
+            "address": "0x76cec83f41b8fd86312e33ddf683445ecd64e9ed",
+            "times": 5
+        },
+        {
+            "amount": 1.6541898923387128,
+            "cumalative": 50.177753675,
+            "address": "0xeef9d33b39e8daa08b4991482f8b81aebc304474",
+            "times": 5
+        },
+        {
+            "amount": 160.60172691047728,
+            "cumalative": 4871.6498208680005,
+            "address": "0xdb016d3722fcf9d3760f7b09cfc6ca8558ba2f4a",
+            "times": 4
+        },
+        {
+            "amount": 388.5010382530136,
+            "cumalative": 11784.686564842,
+            "address": "0x37a48def40a6e4b98c0e5975336883825bcdd170",
+            "times": 4
+        },
+        {
+            "amount": 1274.7772509162116,
+            "cumalative": 38668.752108340006,
+            "address": "0xf3713b90cf982ba3f006437b29c7aded7c3f123a",
+            "times": 5
+        },
+        {
+            "amount": 1890.0144817076887,
+            "cumalative": 57331.193682504,
+            "address": "0xe997c56d81382c5b1ff1063c1645a609a5cc9946",
+            "times": 5
+        },
+        {
+            "amount": 2155.3158632416935,
+            "cumalative": 65378.77481808301,
+            "address": "0xa33a8b1171941b4eb04a57605dccdeffd4860eb8",
+            "times": 3
+        },
+        {
+            "amount": 69.34490421583334,
+            "cumalative": 2103.48977374,
+            "address": "0xfbe7b75572fcc4166af9dfc9ae4abdcf7cc92e63",
+            "times": 4
+        },
+        {
+            "amount": 105.20503910376415,
+            "cumalative": 3191.261512337,
+            "address": "0x84023510eeb4e745e52035ad42255a00a41e7f90",
+            "times": 5
+        },
+        {
+            "amount": 66.6025448180308,
+            "cumalative": 2020.303777387,
+            "address": "0xef6cf8b34d878eedb76c29d68da344e3f4d337ac",
+            "times": 5
+        },
+        {
+            "amount": 192.98519837727474,
+            "cumalative": 5853.961381305,
+            "address": "0xa7423aa94eb3ba310c0e18f6e5fa376a6f8cc0f0",
+            "times": 5
+        },
+        {
+            "amount": 9846.9296902856,
+            "cumalative": 298694.1310321,
+            "address": "0xd46c10d4f93c68462a78e2d7c38cdb16d3d81495",
+            "times": 5
+        },
+        {
+            "amount": 544.1996818862061,
+            "cumalative": 16507.607569221,
+            "address": "0x95cd532ffa12b7a55cb5c9576b087d4526890728",
+            "times": 3
+        },
+        {
+            "amount": 2176.6305995685066,
+            "cumalative": 66025.33032782699,
+            "address": "0x45bc508822a92ba95a1371c743f785c574920069",
+            "times": 5
+        },
+        {
+            "amount": 585.5866263726327,
+            "cumalative": 17763.028071679,
+            "address": "0xf319615938676e0559d808ab11719f05a6f311e8",
+            "times": 5
+        },
+        {
+            "amount": 44.67557245585082,
+            "cumalative": 1355.176863528,
+            "address": "0x90216fc3da70944f5d7c735f6d974f2bd7f33038",
+            "times": 3
+        },
+        {
+            "amount": 16.03825137021752,
+            "cumalative": 486.500026605,
+            "address": "0xcca11a8edb05d64a654092e9551f9122d70ea80e",
+            "times": 5
+        },
+        {
+            "amount": 528.0917012293278,
+            "cumalative": 16018.992393088001,
+            "address": "0x2bb83c17807f14ed351b3d0f30d2069b44067c9b",
+            "times": 5
+        },
+        {
+            "amount": 22.51948251935842,
+            "cumalative": 683.099958462,
+            "address": "0xa0a4713d2fec8085d7968ad7dd909c4788bc1065",
+            "times": 5
+        },
+        {
+            "amount": 9.880656643946091,
+            "cumalative": 299.717195422,
+            "address": "0x3740c412f538782e4537090c48db038e491932d4",
+            "times": 5
+        },
+        {
+            "amount": 1186.8020308097896,
+            "cumalative": 36000.135316248,
+            "address": "0xe3194f331b96a057fb36d87e53e9e00a7696dbcf",
+            "times": 5
+        },
+        {
+            "amount": 1223.8779190461817,
+            "cumalative": 37124.785391686004,
+            "address": "0x8c33ff6f46a69d6424ebb4f9e7c1227ef1b68687",
+            "times": 3
+        },
+        {
+            "amount": 4599.419614495859,
+            "cumalative": 139517.56417629,
+            "address": "0x754c3c591dd4f3922cbdca43f0735f2efaf41541",
+            "times": 4
+        },
+        {
+            "amount": 210.79709059937542,
+            "cumalative": 6394.262555036999,
+            "address": "0x2a469296c6d10a6496bf145853933a73913eae32",
+            "times": 3
+        },
+        {
+            "amount": 7.724868612206055,
+            "cumalative": 234.324097971,
+            "address": "0xc2f041743d89a6d50354115b71ff964b6a9b06f3",
+            "times": 3
+        },
+        {
+            "amount": 364.33492344785583,
+            "cumalative": 11051.63810312,
+            "address": "0x04535a3fba42530698eccf83413fc9b237fad957",
+            "times": 5
+        },
+        {
+            "amount": 41.25927611070636,
+            "cumalative": 1251.547844102,
+            "address": "0xf4ac71fefe98016bcf25ddf4c08cf4885e465a04",
+            "times": 5
+        },
+        {
+            "amount": 2493.929244082653,
+            "cumalative": 75650.182528642,
+            "address": "0x20da92e7d88eb154e7efa1216ef728c45e65d7ac",
+            "times": 5
+        },
+        {
+            "amount": 16.01592563647157,
+            "cumalative": 485.82280377000006,
+            "address": "0x01e1cab6974e0835b62f51756cd24db86984efb8",
+            "times": 3
+        },
+        {
+            "amount": 136.58265220683296,
+            "cumalative": 4143.06163425,
+            "address": "0xb324d07f62b451aa857233db8fb90326b1fa0c52",
+            "times": 5
+        },
+        {
+            "amount": 52.09067678535994,
+            "cumalative": 1580.104654614,
+            "address": "0x13b33247d118bf5ac2ea46dc3ce5ad15a854d923",
+            "times": 3
+        },
+        {
+            "amount": 2468.5261559896376,
+            "cumalative": 74879.612050114,
+            "address": "0x50bd80ee272ae00c39365fbc2385f2b4029dfc28",
+            "times": 5
+        },
+        {
+            "amount": 1027.4678494113568,
+            "cumalative": 31166.934881856,
+            "address": "0xad91f322155496acd890f5736bcfb0e4f59a306e",
+            "times": 4
+        },
+        {
+            "amount": 907.4972964739446,
+            "cumalative": 27527.780222873,
+            "address": "0xb51705f73fb91110e070995f2681e0540b808a96",
+            "times": 5
+        },
+        {
+            "amount": 2463.891711729191,
+            "cumalative": 74739.03205769701,
+            "address": "0x3bf51adca12b11f24aec6a9479bfdf5053dac12c",
+            "times": 4
+        },
+        {
+            "amount": 22.45355854963485,
+            "cumalative": 681.1002384,
+            "address": "0x737821f44b1e845eda555d38da92b3a9c2e259d9",
+            "times": 5
+        },
+        {
+            "amount": 288.6888641284374,
+            "cumalative": 8757.010776116,
+            "address": "0xce3fdeec3b0b5157b32b8db453f7a6f4dc597f9a",
+            "times": 4
+        },
+        {
+            "amount": 264.95784160007605,
+            "cumalative": 8037.160287125,
+            "address": "0xf3beda3d4ba852c71ab7c1594ad5ae5b91afd50d",
+            "times": 3
+        },
+        {
+            "amount": 1173.9186175982009,
+            "cumalative": 35609.333306383,
+            "address": "0xc7429d38ab2197b2ab1d22685616b07f96739af0",
+            "times": 5
+        },
+        {
+            "amount": 158.93344906528938,
+            "cumalative": 4821.0447269999995,
+            "address": "0x10badfeff12424193cd322a2ffcfa283426c0512",
+            "times": 5
+        },
+        {
+            "amount": 363.69475344091524,
+            "cumalative": 11032.219357384,
+            "address": "0x7c6fb34113bbc472bf89795aa4a86abf09b64bdb",
+            "times": 5
+        },
+        {
+            "amount": 192.46133440463595,
+            "cumalative": 5838.0706317,
+            "address": "0x56e96d10cdcfaf34316eeef5bdc8a582fb556d43",
+            "times": 5
+        },
+        {
+            "amount": 1962.2172533246546,
+            "cumalative": 59521.37324146999,
+            "address": "0xa10bdca0a502f6b2d34519d6c595cc3460328c9a",
+            "times": 5
+        },
+        {
+            "amount": 407.1698444475416,
+            "cumalative": 12350.981137777,
+            "address": "0xada583f5bdb7e4da354b168b60b34c9b37d23d44",
+            "times": 3
+        },
+        {
+            "amount": 3571.8341827909394,
+            "cumalative": 108347.06258459602,
+            "address": "0x5378e749d3c7f7507bb6cd40d4b4a4e806e5af35",
+            "times": 5
+        },
+        {
+            "amount": 542.3563966431823,
+            "cumalative": 16451.693847764,
+            "address": "0x9e4a89e06a5fff84aa7d1f057945089b13dae209",
+            "times": 4
+        },
+        {
+            "amount": 396.57884094215837,
+            "cumalative": 12029.716470688001,
+            "address": "0x988cece1a783e62627cf2e95b7dcd46cd6217f15",
+            "times": 3
+        },
+        {
+            "amount": 404.0556167095254,
+            "cumalative": 12256.514986672,
+            "address": "0x0d2c20d369c745b5e5da72bc1921fa4e59f7f6e3",
+            "times": 4
+        },
+        {
+            "amount": 1.5606065815369785,
+            "cumalative": 47.339022560000004,
+            "address": "0x3d87d2f3fafea9d592c6658a68fd57ae44316b9a",
+            "times": 5
+        },
+        {
+            "amount": 13.535141329195755,
+            "cumalative": 410.571356238,
+            "address": "0x58c51a03e9f82cae6cb67986b2b88d0f2e9b12f2",
+            "times": 3
+        },
+        {
+            "amount": 1309.521224577106,
+            "cumalative": 39722.666510865005,
+            "address": "0x156fe1286b7d94420dd99a257c8ee09cde8c0176",
+            "times": 5
+        },
+        {
+            "amount": 329.7117689056673,
+            "cumalative": 10001.388595421002,
+            "address": "0x4cef35f2ec6d8f7a8cd3fdd26291221435135e74",
+            "times": 5
+        },
+        {
+            "amount": 134.6528684681089,
+            "cumalative": 4084.524090564,
+            "address": "0xdf9902ceb5403094bacbb5d1e5fe56b7e10dc298",
+            "times": 4
+        },
+        {
+            "amount": 195.00614992458586,
+            "cumalative": 5915.2643849080005,
+            "address": "0x79fe2c7e6a300aa6533cd5d53a02b6da335422be",
+            "times": 5
+        },
+        {
+            "amount": 897.5924255199284,
+            "cumalative": 27227.328517047,
+            "address": "0x9c6b81b1ff412b40ace0968e06cafa45b266e487",
+            "times": 5
+        },
+        {
+            "amount": 121.9071449461075,
+            "cumalative": 3697.898722909,
+            "address": "0x5a2589b5d97e83396953c642c255d0dcc72473d6",
+            "times": 5
+        },
+        {
+            "amount": 73.02263337577232,
+            "cumalative": 2215.049026233,
+            "address": "0xc4938e93adc60389106d0eff7a91d4d4b54453b5",
+            "times": 5
+        },
+        {
+            "amount": 3.9988741173735525,
+            "cumalative": 121.300777721,
+            "address": "0xa9cf0d493afb4d28b2ebed1e37af3dcaaaec0211",
+            "times": 5
+        },
+        {
+            "amount": 2478.039065943914,
+            "cumalative": 75168.174115829,
+            "address": "0x7436a4cf2d4010c0da1e85c55c5cf9b58330c535",
+            "times": 5
+        },
+        {
+            "amount": 190.79553494729683,
+            "cumalative": 5787.540716586001,
+            "address": "0x5a0e3e3e735da182dc08822db6ad1122bb91bc1a",
+            "times": 3
+        },
+        {
+            "amount": 38.491806235999746,
+            "cumalative": 1167.60015326,
+            "address": "0x837f2d3ceade9d40c8fc742299318ef3e7acb877",
+            "times": 5
+        },
+        {
+            "amount": 59.26665959207646,
+            "cumalative": 1797.778997396,
+            "address": "0x3889931763a3852644caacbec22ad3e18a8577c3",
+            "times": 4
+        },
+        {
+            "amount": 296.58007260825957,
+            "cumalative": 8996.380583133,
+            "address": "0x1c22f1b075d202bff2f25afba758ada69516b659",
+            "times": 3
+        },
+        {
+            "amount": 117.54194163953234,
+            "cumalative": 3565.485813561,
+            "address": "0xc44abffdb232befb250bc1f69e83f7c6bc2dffe1",
+            "times": 4
+        },
+        {
+            "amount": 36.887990102172715,
+            "cumalative": 1118.9504237,
+            "address": "0x41ebc76db2ab4d15741d65ccacf96c3b0e51fa93",
+            "times": 5
+        },
+        {
+            "amount": 11.422453089201086,
+            "cumalative": 346.4856363399999,
+            "address": "0xf19d62595f18c02b8c038c405393a0be2106d173",
+            "times": 4
+        },
+        {
+            "amount": 450.71185355756813,
+            "cumalative": 13671.772794017,
+            "address": "0x1d7947ab841c6f68b27eb1ad0848ea79457e465d",
+            "times": 5
+        },
+        {
+            "amount": 16.038253133436076,
+            "cumalative": 486.50008009,
+            "address": "0xb8478eb8ee470beca7839d3af2e923287d3a0f0a",
+            "times": 5
+        },
+        {
+            "amount": 14.196908379503983,
+            "cumalative": 430.64522091000003,
+            "address": "0x62eb03e21def739f6cadd5582b64a9ff1583fd82",
+            "times": 5
+        },
+        {
+            "amount": 1070.6731913137205,
+            "cumalative": 32477.514165082,
+            "address": "0x7698369cfc1d804bd9048bf1778376d412ef464e",
+            "times": 5
+        },
+        {
+            "amount": 244.51997826251312,
+            "cumalative": 7417.203608061,
+            "address": "0xf425d9805b8c36fc1b6a8657032de82e9f3fc810",
+            "times": 5
+        },
+        {
+            "amount": 1199.9396795475732,
+            "cumalative": 36398.649238553,
+            "address": "0x4e9807c12860a3f4ac4c450330680a1d1946cb2b",
+            "times": 5
+        },
+        {
+            "amount": 163.450145036051,
+            "cumalative": 4958.052974297,
+            "address": "0xb52bcdc4151be5ee73e932c1d5164585d27b5140",
+            "times": 5
+        },
+        {
+            "amount": 206.43354895590167,
+            "cumalative": 6261.900050132999,
+            "address": "0x0ff6885d39d5aa644807f870fe7cab11d9efb7a0",
+            "times": 3
+        },
+        {
+            "amount": 397.85290232151635,
+            "cumalative": 12068.36350774,
+            "address": "0xa88a54f58483a7b2be979e8beaaf7595a1f5575f",
+            "times": 5
+        },
+        {
+            "amount": 56.2322960082697,
+            "cumalative": 1705.7354241799999,
+            "address": "0xd0bf3c2cdb042981ddcd983f7e8e2b8971d4569c",
+            "times": 5
+        },
+        {
+            "amount": 164.085170750344,
+            "cumalative": 4977.315674436,
+            "address": "0x11e00180f01a0a002ce4d928a7f93f56c27d6016",
+            "times": 3
+        },
+        {
+            "amount": 905.0726748145328,
+            "cumalative": 27454.232398077,
+            "address": "0x9489271ddf36255363f763155929ed080d09b756",
+            "times": 5
+        },
+        {
+            "amount": 33.42712393501144,
+            "cumalative": 1013.969435216,
+            "address": "0x7a6917cdf7c0040a56889cda723e0eb038d2c70c",
+            "times": 4
+        },
+        {
+            "amount": 6.254008325994582,
+            "cumalative": 189.70741552500002,
+            "address": "0x75660e2c510bf6c81715c43681f7b6d87bbfed83",
+            "times": 5
+        },
+        {
+            "amount": 230.9510344623726,
+            "cumalative": 7005.606896712,
+            "address": "0x36633aefb6f649341bd24bd6a6966d3fc30e505b",
+            "times": 4
+        },
+        {
+            "amount": 319.87122388578746,
+            "cumalative": 9702.888135273,
+            "address": "0xb2a86e3051bb321910cf4ee10251c22562d58b5d",
+            "times": 3
+        },
+        {
+            "amount": 11802.25519866207,
+            "cumalative": 358006.451925951,
+            "address": "0x882e4a6aadc8c3c585017881f9c29f4db93707c8",
+            "times": 5
+        },
+        {
+            "amount": 0.38799966738317104,
+            "cumalative": 11.769478115,
+            "address": "0x4784703ce45fa56f22b34d671f62d8a3ed3c4cc4",
+            "times": 5
+        },
+        {
+            "amount": 353.6412757265834,
+            "cumalative": 10727.259853845,
+            "address": "0xc7f56c3561c14857daddcb5146c7813d0ebeadae",
+            "times": 5
+        },
+        {
+            "amount": 112.69243391144055,
+            "cumalative": 3418.382143449,
+            "address": "0x9826f14289bbe7f3061506d366c5f48ff3947b2a",
+            "times": 5
+        },
+        {
+            "amount": 5533.741947527488,
+            "cumalative": 167859.047882027,
+            "address": "0x7bb50c6cad51ac4c4a95414008b99c349311688b",
+            "times": 5
+        },
+        {
+            "amount": 1895.834288786931,
+            "cumalative": 57507.730153565,
+            "address": "0x01cb883da543bd8409a9984463b8ab3ae3d2ecd4",
+            "times": 5
+        },
+        {
+            "amount": 30.84347658556119,
+            "cumalative": 935.5977676800001,
+            "address": "0xb65fb2ed30ee8fb966a80f369f2f735bbe6a39fd",
+            "times": 3
+        },
+        {
+            "amount": 128.30835045494408,
+            "cumalative": 3892.071178401,
+            "address": "0x6091a224ec0e8bae16125603d179d9fce7aad641",
+            "times": 5
+        },
+        {
+            "amount": 9720.127990482839,
+            "cumalative": 294847.76219153195,
+            "address": "0xe9b7064bc3d5c4a4a701f7d785445ca68b32d0c2",
+            "times": 5
+        },
+        {
+            "amount": 4.21187431120113,
+            "cumalative": 127.76186862,
+            "address": "0xcdf1eaa34457a85c50f69900cda52630426fca75",
+            "times": 3
+        },
+        {
+            "amount": 174.34655406214696,
+            "cumalative": 5288.581730751,
+            "address": "0x429a635ed4daf9529c07d5406d466b349ec34361",
+            "times": 3
+        },
+        {
+            "amount": 14.431459028466115,
+            "cumalative": 437.76001755,
+            "address": "0x66f9fabbdf071765506f41cc02cd3e4f2258b025",
+            "times": 3
+        },
+        {
+            "amount": 2907.761733546045,
+            "cumalative": 88203.266557978,
+            "address": "0xb40ea8b597a78d6c92fc360f7f32e4ac38068958",
+            "times": 5
+        },
+        {
+            "amount": 63.3718022583173,
+            "cumalative": 1922.30329685,
+            "address": "0x419cf603c2564fd654babff8e7f7d09e105ec0fd",
+            "times": 5
+        },
+        {
+            "amount": 134.72555523585262,
+            "cumalative": 4086.728951532,
+            "address": "0xefc963e6b8423faa918ee52f1f9ab4712293f800",
+            "times": 4
+        },
+        {
+            "amount": 3068.9871894613134,
+            "cumalative": 93093.836407621,
+            "address": "0x1d8e3d2df6720f636e32b86f426250705f273d79",
+            "times": 5
+        },
+        {
+            "amount": 222.36268995569105,
+            "cumalative": 6745.09035195,
+            "address": "0x4f3c65b2897b07873ded8ac04ec9393a0c33109a",
+            "times": 5
+        },
+        {
+            "amount": 776.7180496077211,
+            "cumalative": 23560.757533732,
+            "address": "0x954957c811facfe062ce05b5b3a39264e153962a",
+            "times": 4
+        },
+        {
+            "amount": 30316.913443958863,
+            "cumalative": 919625.1422057261,
+            "address": "0xc08fbfbbf40c4e2aa65f61fd7b0aba2d9c4ff889",
+            "times": 5
+        },
+        {
+            "amount": 27.166296647944506,
+            "cumalative": 824.05517515,
+            "address": "0x19eba7ec8ddcccf1882f18b3246d51e8aa522920",
+            "times": 5
+        },
+        {
+            "amount": 1341.5355711727314,
+            "cumalative": 40693.781136205995,
+            "address": "0x3c42c9df2bb1bb114f404ae16fdad203b48f4199",
+            "times": 5
+        },
+        {
+            "amount": 526.230661857126,
+            "cumalative": 15962.540122626,
+            "address": "0xa01c23d6b45d5a8103e6620ac49cd873f0663b1c",
+            "times": 3
+        },
+        {
+            "amount": 581.5812369241473,
+            "cumalative": 17641.529659647,
+            "address": "0xffb3ad2b555da15eb45cfdc76c43932262f18e68",
+            "times": 4
+        },
+        {
+            "amount": 303.4451151728414,
+            "cumalative": 9204.622947791,
+            "address": "0x12d0b1ae5c8d7daea20182a072b2212cedb95952",
+            "times": 5
+        },
+        {
+            "amount": 62.38348395841852,
+            "cumalative": 1892.32391393,
+            "address": "0xd09d42e00c55a7e4d24ff55ccd812a2cf0ae4ef3",
+            "times": 4
+        },
+        {
+            "amount": 1493.798638413912,
+            "cumalative": 45312.488285375,
+            "address": "0xd2c534d40aaae8c780b6e8d4c6af313e3d768954",
+            "times": 5
+        },
+        {
+            "amount": 2308.431118268108,
+            "cumalative": 70023.332003557,
+            "address": "0xf63e0850a8bf88c2c5be5341e6bf9937525f4669",
+            "times": 4
+        },
+        {
+            "amount": 250.50134559077173,
+            "cumalative": 7598.640804496001,
+            "address": "0x81c12c1880cc814f8b6659aa783aaac61ac42f09",
+            "times": 5
+        },
+        {
+            "amount": 0.7950734159157652,
+            "cumalative": 24.117544305,
+            "address": "0x1cbefae3e2bc352ce595769f833c6f67048a1054",
+            "times": 5
+        },
+        {
+            "amount": 138.99580097822619,
+            "cumalative": 4216.26144353,
+            "address": "0xcdb03d8426cc70f7a3d29bea1d9d6334840bb7a9",
+            "times": 5
+        },
+        {
+            "amount": 1771.5249005023556,
+            "cumalative": 53736.962423861,
+            "address": "0x61ef5e4491de8f2e2f2fa91ca82336c0e34b0c60",
+            "times": 5
+        },
+        {
+            "amount": 505.2050496254461,
+            "cumalative": 15324.754825839,
+            "address": "0xaff0b7f81164045cc04db3b6e305e43bfdf0ec2c",
+            "times": 4
+        },
+        {
+            "amount": 93.13103596089859,
+            "cumalative": 2825.0119309680003,
+            "address": "0xd9fccc95e992b1a1d11f742144a56dec5f0ef81c",
+            "times": 3
+        },
+        {
+            "amount": 953.5781573569576,
+            "cumalative": 28925.584729616,
+            "address": "0x410aad3500134445514e92a83dea68cc8b47e005",
+            "times": 4
+        },
+        {
+            "amount": 45.24362227820742,
+            "cumalative": 1372.4079348779999,
+            "address": "0x91724f30c6116ecbe1e86e2364c0e4e4af05f8bd",
+            "times": 3
+        },
+        {
+            "amount": 11.00637081499077,
+            "cumalative": 333.864307942,
+            "address": "0x7e4e7be312d007c6f9d3246f0816accf99bcd880",
+            "times": 3
+        },
+        {
+            "amount": 3087.8604771423484,
+            "cumalative": 93666.33366726601,
+            "address": "0x67cfe66d856daed377b59439c3e55c80ebda7958",
+            "times": 3
+        },
+        {
+            "amount": 5737.560948465964,
+            "cumalative": 174041.638932028,
+            "address": "0xad0395bbdc94fdda0ee4060b8076c305f582d128",
+            "times": 5
+        },
+        {
+            "amount": 162.04888867813898,
+            "cumalative": 4915.547638792001,
+            "address": "0xf29f3f2c60bbef12c91c3be2bd6ba523f9d5157b",
+            "times": 5
+        },
+        {
+            "amount": 101.79450902068722,
+            "cumalative": 3087.8074051619997,
+            "address": "0x1f5c8c922b89c524944ea488881d7b75352c1fd5",
+            "times": 3
+        },
+        {
+            "amount": 131.82100600119784,
+            "cumalative": 3998.623132056,
+            "address": "0x63e412701c548f59366ec87a178d9e35dd4dd869",
+            "times": 4
+        },
+        {
+            "amount": 148.43409604836137,
+            "cumalative": 4502.560161310001,
+            "address": "0xd0ff6bec1313296aef08ac356cd1d32345bfbd6d",
+            "times": 5
+        },
+        {
+            "amount": 926.5058495224679,
+            "cumalative": 28104.38058599,
+            "address": "0xe89ff17b387632796964c231c47d0f419da0fe62",
+            "times": 5
+        },
+        {
+            "amount": 145.49135103728702,
+            "cumalative": 4413.29572137,
+            "address": "0x57c1dd662ac0e58aa5e23e7150a7a8399090d6b5",
+            "times": 5
+        },
+        {
+            "amount": 129.3899184860561,
+            "cumalative": 3924.879173722,
+            "address": "0x8611d7b429f12c8917cc17339f17bde7b4bfeb7a",
+            "times": 5
+        },
+        {
+            "amount": 54.919337127638116,
+            "cumalative": 1665.9084807299998,
+            "address": "0x324151fd0be17516708ad9e9156dbd0409d6861c",
+            "times": 5
+        },
+        {
+            "amount": 229.08059458421167,
+            "cumalative": 6948.869473817,
+            "address": "0xaa098d234af57d1f6c8e172e545b98381703d9cf",
+            "times": 5
+        },
+        {
+            "amount": 48.51029787436831,
+            "cumalative": 1471.49839853,
+            "address": "0x9969cd947f2e8ba4f72a03ea2f96b66b8e7a91e6",
+            "times": 5
+        },
+        {
+            "amount": 92.80941928390207,
+            "cumalative": 2815.256096725,
+            "address": "0xb971f4fc2fd101b41b01630eb9ec15fbd7b320ca",
+            "times": 5
+        },
+        {
+            "amount": 377.30270337353727,
+            "cumalative": 11444.999270321001,
+            "address": "0x76cd53f519075e8e5fe3a5ccf2ff3218d3fa2578",
+            "times": 3
+        },
+        {
+            "amount": 286.9844789267114,
+            "cumalative": 8705.310411354001,
+            "address": "0x754dfc085680b3a6a57e3d9cfeaa9d7eec4febaf",
+            "times": 5
+        },
+        {
+            "amount": 401.3323432853751,
+            "cumalative": 12173.907939138,
+            "address": "0xd1059b5ee0d191ea826b8eee81bb6aaa41186e9f",
+            "times": 3
+        },
+        {
+            "amount": 6574.747006995291,
+            "cumalative": 199436.61687233998,
+            "address": "0x719ef1e50d44dc2f9fb43978a613164be0275476",
+            "times": 5
+        },
+        {
+            "amount": 42.34099149094537,
+            "cumalative": 1284.360309072,
+            "address": "0xf613098ce5cd8fce79466780a066310a9fbde8b3",
+            "times": 3
+        },
+        {
+            "amount": 195.10946099085376,
+            "cumalative": 5918.3981951549995,
+            "address": "0xdd64a85151f75eb1ccb6f95df5a3c7463419e69d",
+            "times": 4
+        },
+        {
+            "amount": 1478.3933946693453,
+            "cumalative": 44845.189742748,
+            "address": "0x306419197534cc5bd4ee7693c716096a1486a071",
+            "times": 5
+        },
+        {
+            "amount": 64.15308647452957,
+            "cumalative": 1946.00256326,
+            "address": "0xff10b9e7368a1c9f7cc84d272adbcaf7500e3ccc",
+            "times": 4
+        },
+        {
+            "amount": 1972.0413812776196,
+            "cumalative": 59819.37571070199,
+            "address": "0xf97b36304d13d6e28e7db8f8f3c9e0e960802b9e",
+            "times": 5
+        },
+        {
+            "amount": 217.53771181657572,
+            "cumalative": 6598.730755828,
+            "address": "0xef13e4955503f68cc020988eec7495b99bc8693c",
+            "times": 5
+        },
+        {
+            "amount": 160.38259264778472,
+            "cumalative": 4865.002660765,
+            "address": "0x358b807d67000c19fc901e82f178286698701317",
+            "times": 5
+        },
+        {
+            "amount": 896.1203509703874,
+            "cumalative": 27182.675001461997,
+            "address": "0xcd7d24f9dfd25cc2ed7555370581a48c4eb69ec6",
+            "times": 3
+        },
+        {
+            "amount": 618.0655524494208,
+            "cumalative": 18748.23512672,
+            "address": "0xc11f45f0c65348e9d09e61eea1ec79c0d413c545",
+            "times": 5
+        },
+        {
+            "amount": 202.91611133071757,
+            "cumalative": 6155.203038175,
+            "address": "0x244ffd3d489706775ddc55b40a5ea2018deee0c8",
+            "times": 5
+        },
+        {
+            "amount": 253.72281283502141,
+            "cumalative": 7696.359930095,
+            "address": "0xdbcc70a2289815b04c460895f957ffcdb0ef8437",
+            "times": 5
+        },
+        {
+            "amount": 160.38268913607547,
+            "cumalative": 4865.005587615,
+            "address": "0xa6db85660c54d1e5158c56a6f3f061e71bc84439",
+            "times": 5
+        },
+        {
+            "amount": 4.659938859978304,
+            "cumalative": 141.353338779,
+            "address": "0xd25cbab39deb7c620b69bd1bc76237747812453c",
+            "times": 3
+        },
+        {
+            "amount": 185.99229657177,
+            "cumalative": 5641.840568637,
+            "address": "0x4ec9d16360ed699f8a5c0dba7503d82cc8b8995c",
+            "times": 3
+        },
+        {
+            "amount": 2508.4017453831702,
+            "cumalative": 76089.18751149302,
+            "address": "0xda346de6c6dab3255d1b8b207789caa6663e9ce5",
+            "times": 5
+        },
+        {
+            "amount": 93.60810340420613,
+            "cumalative": 2839.483167171,
+            "address": "0x970647072cb08d94d9098b3262018bf807b5d3da",
+            "times": 3
+        },
+        {
+            "amount": 2041.3046464042593,
+            "cumalative": 61920.389066150005,
+            "address": "0x56858525a6d67916e144b55742c5574577af2c8b",
+            "times": 5
+        },
+        {
+            "amount": 1228.8399300441426,
+            "cumalative": 37275.30170589,
+            "address": "0x3f6284cd9d7c99cbee729459704474154ef205d0",
+            "times": 5
+        },
+        {
+            "amount": 10999.042012591439,
+            "cumalative": 333641.998010577,
+            "address": "0x0608491085e3f55e529a6215f48a277ef2acd631",
+            "times": 5
+        },
+        {
+            "amount": 424.9565130114473,
+            "cumalative": 12890.517183809,
+            "address": "0xd6fd705ee0b31a9300d3e2154bcce777270cbb6f",
+            "times": 5
+        },
+        {
+            "amount": 271.76189691144515,
+            "cumalative": 8243.552680759,
+            "address": "0xd8a0d35b7f6da5d2fb28fb51df925368ab1dd8f4",
+            "times": 5
+        },
+        {
+            "amount": 94.54867508312196,
+            "cumalative": 2868.014216863,
+            "address": "0xac84e28aedb8d7a8186faf06d3cc9c328af9e1a3",
+            "times": 5
+        },
+        {
+            "amount": 1626.6007911045874,
+            "cumalative": 49340.873258638996,
+            "address": "0x1e1f00c4e4a9e7947439547e94fd59bc1c393774",
+            "times": 5
+        },
+        {
+            "amount": 2152.527931170642,
+            "cumalative": 65294.20643245101,
+            "address": "0x40aea19309a630db8c15ca278d9d40d4b32a3d28",
+            "times": 5
+        },
+        {
+            "amount": 147.65429198959495,
+            "cumalative": 4478.9057936,
+            "address": "0xd4dfb72f718f6e1adc603ee587d84da94bd80008",
+            "times": 5
+        },
+        {
+            "amount": 3956.4863202289453,
+            "cumalative": 120014.997621751,
+            "address": "0xc697be0b5b82284391a878b226e2f9afc6b94710",
+            "times": 3
+        },
+        {
+            "amount": 272.6268164931431,
+            "cumalative": 8269.788919972,
+            "address": "0xead9520b254b73cd7eacae6dd51fd4ce8f12b8c1",
+            "times": 4
+        },
+        {
+            "amount": 532.0204676910083,
+            "cumalative": 16138.166543936,
+            "address": "0x1013a96f5b295a64749e51a3b897c60bc5bb30bf",
+            "times": 5
+        },
+        {
+            "amount": 465.0640907211971,
+            "cumalative": 14107.129716712,
+            "address": "0x74682fd002053e7b821c31a2f20333f1b9a6c4c7",
+            "times": 4
+        },
+        {
+            "amount": 20.221061430739596,
+            "cumalative": 613.3802680199999,
+            "address": "0x1986c279a33cc7088303c2bc364641a3f72fd6cb",
+            "times": 3
+        },
+        {
+            "amount": 166.37332572607528,
+            "cumalative": 5046.723955356,
+            "address": "0xe0508ff0637d95d85a3003f85975b873391e5a87",
+            "times": 3
+        },
+        {
+            "amount": 186.5249718777363,
+            "cumalative": 5657.99859887,
+            "address": "0x6309c1c613b00c8656098fe41b9349491de0f923",
+            "times": 5
+        },
+        {
+            "amount": 21.16614030451066,
+            "cumalative": 642.048037755,
+            "address": "0x8d9598616bbeb080368b84ff6a6c93879dd63853",
+            "times": 3
+        },
+        {
+            "amount": 190.82931228661624,
+            "cumalative": 5788.565309361,
+            "address": "0xc828e1294b2c51e24404d5fcc87147889288d2fd",
+            "times": 4
+        },
+        {
+            "amount": 221.04806288305494,
+            "cumalative": 6705.212806009999,
+            "address": "0xddde18814f6f48187481a30cfa6d55dba1ba3d13",
+            "times": 5
+        },
+        {
+            "amount": 36.78669654964226,
+            "cumalative": 1115.877812175,
+            "address": "0x9fda8ad4b71b65e551e359037b2213c2d8b24030",
+            "times": 5
+        },
+        {
+            "amount": 1154.7905178755025,
+            "cumalative": 35029.106646432,
+            "address": "0xe5da1092871a3a5034ae3c3d1d091bc4ea6b5ca9",
+            "times": 4
+        },
+        {
+            "amount": 227.49288198489782,
+            "cumalative": 6900.708224565,
+            "address": "0xd94c2aaa2c3aa27c69f7ec8da00091badd5ce799",
+            "times": 3
+        },
+        {
+            "amount": 2260.183040399197,
+            "cumalative": 68559.787716525,
+            "address": "0xeb37ccb23aa6d38161033ffbb7422d8a7e38c0f7",
+            "times": 5
+        },
+        {
+            "amount": 28.86291921425766,
+            "cumalative": 875.5200702059999,
+            "address": "0x04308d226740631a6e426368c31f829c53a25211",
+            "times": 3
+        },
+        {
+            "amount": 80.19127439475784,
+            "cumalative": 2432.50066519,
+            "address": "0x6adbd5b6941624c66a23fa4a6e94dd31b83d0df2",
+            "times": 5
+        },
+        {
+            "amount": 1001.9651474646097,
+            "cumalative": 30393.342743337,
+            "address": "0xbbb5d974b3c0496c72f62aff33268deb9bbecc02",
+            "times": 5
+        },
+        {
+            "amount": 818.7315475424866,
+            "cumalative": 24835.183740880002,
+            "address": "0xfcd85a710b822b9e935b706da3aad96f53b51313",
+            "times": 5
+        },
+        {
+            "amount": 249.5215976182839,
+            "cumalative": 7568.921391595,
+            "address": "0x06e0b4e293cf4964169baf881cd21915fadd748f",
+            "times": 4
+        },
+        {
+            "amount": 778.3488002383292,
+            "cumalative": 23610.224287112,
+            "address": "0x308d8ab4da3422764b1892fe19c4e95b54d65a19",
+            "times": 3
+        },
+        {
+            "amount": 96.20974871646081,
+            "cumalative": 2918.400780096,
+            "address": "0x096a1f66828539858aa51e538728a956fee2c094",
+            "times": 3
+        },
+        {
+            "amount": 361.1814660946395,
+            "cumalative": 10955.981971362,
+            "address": "0xc797210c28330440a7acc008e0172309b72a8317",
+            "times": 5
+        },
+        {
+            "amount": 130.21737062468455,
+            "cumalative": 3949.97888554,
+            "address": "0x1c5f7635a4a302d72e652486907051f84cd55005",
+            "times": 5
+        },
+        {
+            "amount": 3819.086307342955,
+            "cumalative": 115847.14238731499,
+            "address": "0x14cab1a7b5fe7a2473a2dd82de32e4c94cbae63e",
+            "times": 3
+        },
+        {
+            "amount": 25.229983005948814,
+            "cumalative": 765.3195551250001,
+            "address": "0x6e6d347d1ae6cb1a0edc2930d6fc12c2b9c10890",
+            "times": 3
+        },
+        {
+            "amount": 460.1125237388924,
+            "cumalative": 13956.930208484999,
+            "address": "0xd427acae4dea6410fc2faf769e08913c5cd6328c",
+            "times": 3
+        },
+        {
+            "amount": 20.01322316395391,
+            "cumalative": 607.0757576350001,
+            "address": "0x55823da5ff1502f95e2f3b2f0c725cf799f5477c",
+            "times": 5
+        },
+        {
+            "amount": 272.25404353164635,
+            "cumalative": 8258.481324679999,
+            "address": "0xa86e29ad86d690f8b5a6a632cab8405d40a319fa",
+            "times": 4
+        },
+        {
+            "amount": 11465.67363804593,
+            "cumalative": 347796.676906551,
+            "address": "0x4887e82d029dc835b6ce43a6cf4602b9493fb508",
+            "times": 5
+        },
+        {
+            "amount": 531.2237055790831,
+            "cumalative": 16113.997775178,
+            "address": "0xee4a69d674c03a4b80ccf52c4427871458f2c79d",
+            "times": 5
+        },
+        {
+            "amount": 44.907109976901886,
+            "cumalative": 1362.200260752,
+            "address": "0x4de0b45ae609135b8c80010b962e67703e8375e8",
+            "times": 4
+        },
+        {
+            "amount": 5.798248406721578,
+            "cumalative": 175.882516056,
+            "address": "0xdb64a9173d78bd93a0e7f2cc8028926e471a6ad1",
+            "times": 3
+        },
+        {
+            "amount": 831.817811339603,
+            "cumalative": 25232.138966141,
+            "address": "0xf6c0cb402d7fc60b29d7a4943e05ca5f329c5ee1",
+            "times": 5
+        },
+        {
+            "amount": 612.4149239325394,
+            "cumalative": 18576.830472912,
+            "address": "0x0aa77cbbffa3b567fc5b67b5fccde7cdc79d1b1a",
+            "times": 3
+        },
+        {
+            "amount": 2824.118230323963,
+            "cumalative": 85666.04690706001,
+            "address": "0x8566bc043b12fd2fcad965d21122757a15ae1f73",
+            "times": 5
+        },
+        {
+            "amount": 295.57362669214154,
+            "cumalative": 8965.851321952,
+            "address": "0xa4865e97187d4c6f1e3af0964c6fd6377ecf029e",
+            "times": 4
+        },
+        {
+            "amount": 12.830601096174016,
+            "cumalative": 389.200021284,
+            "address": "0x72c896a72249028be9e68646cec055593396a0f7",
+            "times": 4
+        },
+        {
+            "amount": 64.74249750887358,
+            "cumalative": 1963.8815998999999,
+            "address": "0x85d5c271b5f2eeaf0d72831a6116f02eb0d641fe",
+            "times": 5
+        },
+        {
+            "amount": 56.13388747112735,
+            "cumalative": 1702.75032594,
+            "address": "0xb8998eab8628f11ea0d2089783dabaa6ac5bb79c",
+            "times": 5
+        },
+        {
+            "amount": 53.94783433381786,
+            "cumalative": 1636.439174873,
+            "address": "0xad11879085e7909e75a65a44adfd5e6890f38459",
+            "times": 5
+        },
+        {
+            "amount": 365.59731875350644,
+            "cumalative": 11089.931264613,
+            "address": "0xf1ff94f30b87afe735bcbbe20779cb754c6b5ac0",
+            "times": 3
+        },
+        {
+            "amount": 216.47200694161256,
+            "cumalative": 6566.403949242001,
+            "address": "0xb6c750d22ce8ee01b67aab06e8610bacd5c1cbc6",
+            "times": 3
+        },
+        {
+            "amount": 159.09471594368233,
+            "cumalative": 4825.9365533479995,
+            "address": "0x11b1785d9ac81480c03210e89f1508c8c115888e",
+            "times": 5
+        },
+        {
+            "amount": 5.3281515852159576,
+            "cumalative": 161.62272482999998,
+            "address": "0x5616e326662a3b9ba390e56754d89f2296251b89",
+            "times": 5
+        },
+        {
+            "amount": 7.5631982430456635,
+            "cumalative": 229.42003224200002,
+            "address": "0xdad0e92acbc78d30c8e044c095df78ea8136c195",
+            "times": 5
+        },
+        {
+            "amount": 52.63374262563147,
+            "cumalative": 1596.577868535,
+            "address": "0x410a81d6bdc93393c9c535b3f366f361845830c8",
+            "times": 5
+        },
+        {
+            "amount": 359.94803792339644,
+            "cumalative": 10918.567491175001,
+            "address": "0x56b0d4debfa7ebcdccf1c726d2e20d335c6b4db0",
+            "times": 5
+        },
+        {
+            "amount": 45.236198037286684,
+            "cumalative": 1372.18272994,
+            "address": "0xd267822ee21c61efcf38b8e62e0a311cf27fb289",
+            "times": 5
+        },
+        {
+            "amount": 69.87569430536519,
+            "cumalative": 2119.5906183219995,
+            "address": "0x33683ffabed9c73cf44a3edbf2e72bb53466d12d",
+            "times": 4
+        },
+        {
+            "amount": 336.61857941297063,
+            "cumalative": 10210.89793768,
+            "address": "0x15caac6fd6517a6e1deb8a888b53299418b07454",
+            "times": 5
+        },
+        {
+            "amount": 1293.0609539118354,
+            "cumalative": 39223.36506386,
+            "address": "0xe2d4748b579e7d1eb724d3b317777a5285ce91c8",
+            "times": 5
+        },
+        {
+            "amount": 76.47180279304744,
+            "cumalative": 2319.6752086349998,
+            "address": "0x024eb9dfdf404cf389487733d785cd9c8baeff8a",
+            "times": 5
+        },
+        {
+            "amount": 370.08573420964956,
+            "cumalative": 11226.081658345,
+            "address": "0xcab81920134bb8a6fe2bf3760b445b741a44de5b",
+            "times": 5
+        },
+        {
+            "amount": 671.0423539595419,
+            "cumalative": 20355.219251684,
+            "address": "0x432be6f0b96871857a4de5d95f94b1a7a8a94474",
+            "times": 5
+        },
+        {
+            "amount": 413.2193039130261,
+            "cumalative": 12534.483822887001,
+            "address": "0x6c46489194bbc861723049b27ee563995b85bba1",
+            "times": 4
+        },
+        {
+            "amount": 63.80484405309569,
+            "cumalative": 1935.439070808,
+            "address": "0x903631aeefe4116225404931c80b447a029e6704",
+            "times": 3
+        },
+        {
+            "amount": 4571.983173414293,
+            "cumalative": 138685.314512158,
+            "address": "0x2b4e8b66df5a557fce7fa528e1a58064aa0b37df",
+            "times": 5
+        },
+        {
+            "amount": 33.23475585057864,
+            "cumalative": 1008.134193204,
+            "address": "0x85298c52a43edf85cf5b49e9c1c6073121bb2b8d",
+            "times": 3
+        },
+        {
+            "amount": 344.22487947421854,
+            "cumalative": 10441.625408945001,
+            "address": "0x8a3267915820045ceb4a07ad6a93e25163562d41",
+            "times": 3
+        },
+        {
+            "amount": 99.55861875213431,
+            "cumalative": 3019.984507888,
+            "address": "0xfaf6a8973e5a16d5b722b1d3b9a5613a627af974",
+            "times": 5
+        },
+        {
+            "amount": 9.620973027441778,
+            "cumalative": 291.840022068,
+            "address": "0x09046ec8eacd29c9e65a1ea2bbee49ca21ca5a46",
+            "times": 3
+        },
+        {
+            "amount": 224.5357218094119,
+            "cumalative": 6811.006518884,
+            "address": "0x1f34550a04b0353e8f4d0fa075d65eeaea388a71",
+            "times": 4
+        },
+        {
+            "amount": 2588.8448886100787,
+            "cumalative": 78529.328298459,
+            "address": "0x442747e725d0e1d1fe46c3635f8e01253b6d1ec7",
+            "times": 5
+        },
+        {
+            "amount": 67.36083765138817,
+            "cumalative": 2043.30562934,
+            "address": "0xf75eaabf5dfa1030eeba7360b1069a5e0c5a1a1b",
+            "times": 5
+        },
+        {
+            "amount": 1206.8673423260336,
+            "cumalative": 36608.791108027,
+            "address": "0xe5c34d2de5f73d836f3950b82c1dbd7b03850195",
+            "times": 5
+        },
+        {
+            "amount": 34.97741285695457,
+            "cumalative": 1060.9954846500002,
+            "address": "0xa0de32033a9b38f5dc7faa161dafce0bfa954ad4",
+            "times": 5
+        },
+        {
+            "amount": 8.019126599684636,
+            "cumalative": 243.250041045,
+            "address": "0x51816e5fe17daf99adcacd2ca86900eb4cf13bac",
+            "times": 5
+        },
+        {
+            "amount": 389.4914096847855,
+            "cumalative": 11814.728226914998,
+            "address": "0x622917f2935e9b7e9437b70362204274738497a7",
+            "times": 5
+        },
+        {
+            "amount": 92.92306546284192,
+            "cumalative": 2818.703409515,
+            "address": "0xbaad99b680fe95933cd91a8ebdd2a34ed3284eec",
+            "times": 5
+        },
+        {
+            "amount": 2182.9130199233346,
+            "cumalative": 66215.899586234,
+            "address": "0xd11794a5d80c73e2336a823ac33eeb1ecba81779",
+            "times": 5
+        },
+        {
+            "amount": 24.052432357156675,
+            "cumalative": 729.600048756,
+            "address": "0xaa1fad90c2ca1118c5052cfe2b91652d59f2bce9",
+            "times": 3
+        },
+        {
+            "amount": 2472.7864291971405,
+            "cumalative": 75008.84203790702,
+            "address": "0xca9b1442ee47083a3a2eb06853def92f30e8d70b",
+            "times": 5
+        },
+        {
+            "amount": 176.27493067205762,
+            "cumalative": 5347.076590968,
+            "address": "0x294803520a1e7b671c105c8a3d94836f40b2b557",
+            "times": 3
+        },
+        {
+            "amount": 473.8765723317504,
+            "cumalative": 14374.445176423,
+            "address": "0xb4402f4a754efdc5d1f08e434638e5d44ecd80b8",
+            "times": 5
+        },
+        {
+            "amount": 282.3346061527033,
+            "cumalative": 8564.262414534001,
+            "address": "0x436b72cd2bc5812b8d9e6e5bd450613f7e2cb70b",
+            "times": 3
+        },
+        {
+            "amount": 64.25694743583625,
+            "cumalative": 1949.153053876,
+            "address": "0xb2489ba5effd9289024a09cbd980e29b1eb7c944",
+            "times": 4
+        },
+        {
+            "amount": 1149.2822603493657,
+            "cumalative": 34862.020636171,
+            "address": "0xffa41cf9743b075a28fd3dd4194593842e844e68",
+            "times": 5
+        },
+        {
+            "amount": 70.26406597560049,
+            "cumalative": 2131.371380672,
+            "address": "0x79c75baae15ef527a81a094d9560f219fffd7b15",
+            "times": 4
+        },
+        {
+            "amount": 47.66224855950079,
+            "cumalative": 1445.773897478,
+            "address": "0x355c1cf73c2c1d0193b0dac92863d5f254a3e83d",
+            "times": 5
+        },
+        {
+            "amount": 34.13504267890544,
+            "cumalative": 1035.443253015,
+            "address": "0xc981fc4782a215dac9853b77cdd54d9f2ee07e47",
+            "times": 5
+        },
+        {
+            "amount": 48.01327475576487,
+            "cumalative": 1456.421832211,
+            "address": "0x477bbc7072acc0549292920b9a7608c9e7b35183",
+            "times": 3
+        },
+        {
+            "amount": 45.76059131930103,
+            "cumalative": 1388.089535474,
+            "address": "0xa65ee7cf52f83420c9aa1d1bb6ebc29128dc0813",
+            "times": 5
+        },
+        {
+            "amount": 16.038255905927066,
+            "cumalative": 486.50016419,
+            "address": "0xda7bf6d192fec483e089416c72bb5a894d0b305c",
+            "times": 5
+        },
+        {
+            "amount": 207.63580026754005,
+            "cumalative": 6298.368819801,
+            "address": "0x3f657f09ccdc1477c387e9a220d9356925147ff5",
+            "times": 3
+        },
+        {
+            "amount": 443.76861255166006,
+            "cumalative": 13461.158378758999,
+            "address": "0x7793f365fa1221f3e3c25bf7327f4bae1b8f4b08",
+            "times": 3
+        },
+        {
+            "amount": 18.057313328173702,
+            "cumalative": 547.74571191,
+            "address": "0x2a6c2299496c90379b754db23537fc073f1bb70e",
+            "times": 5
+        },
+        {
+            "amount": 350.293947599774,
+            "cumalative": 10625.722897904001,
+            "address": "0x54ec07cd724c81b61abe2d4f5c7d9b3c665a8fef",
+            "times": 5
+        },
+        {
+            "amount": 305.64713494888315,
+            "cumalative": 9271.418426606002,
+            "address": "0xb5cdd02824a1f715cbfb0c26192f811ae3bf4d61",
+            "times": 5
+        },
+        {
+            "amount": 779.1659677976978,
+            "cumalative": 23635.012029254,
+            "address": "0x49a0ea542aa2864712e35e627f842b5e2239f0f9",
+            "times": 5
+        },
+        {
+            "amount": 2106.904098789528,
+            "cumalative": 63910.26530602301,
+            "address": "0xbdc377b14a9269656e4f0014cc4a3f80d1ee43e9",
+            "times": 5
+        },
+        {
+            "amount": 87.62830273095852,
+            "cumalative": 2658.0934932299997,
+            "address": "0x7c9f691369f4f9e24ac0a816083df8b4f95d06ec",
+            "times": 5
+        },
+        {
+            "amount": 438.4206376642415,
+            "cumalative": 13298.934339182999,
+            "address": "0xcece8b3101a2bad3e6d4de2577cb094c326f50ef",
+            "times": 3
+        },
+        {
+            "amount": 2138.631428137801,
+            "cumalative": 64872.673626963995,
+            "address": "0x8a9984eb4c1441e92328976d3fb438e922996ce1",
+            "times": 5
+        },
+        {
+            "amount": 525.4984483140232,
+            "cumalative": 15940.329352887002,
+            "address": "0xe3af47627add841122439d0c93264fc541ea9a13",
+            "times": 5
+        },
+        {
+            "amount": 126.57232320424012,
+            "cumalative": 3839.4109921900003,
+            "address": "0xfa0ab6d1df1e6f7b7e53307bfa1c4d8ef057abe8",
+            "times": 4
+        },
+        {
+            "amount": 37.93978956469789,
+            "cumalative": 1150.8554272249999,
+            "address": "0x762a62a9b2cfdc749616459f784606000c26bfee",
+            "times": 5
+        },
+        {
+            "amount": 16.714624574358172,
+            "cumalative": 507.01695043999996,
+            "address": "0xdaab06a2611095939d61300030701908af24590b",
+            "times": 5
+        },
+        {
+            "amount": 54.556167179293034,
+            "cumalative": 1654.89218067,
+            "address": "0x2b92d12d8cc0b9af862451393925092c6c21a611",
+            "times": 3
+        },
+        {
+            "amount": 523.7113524696101,
+            "cumalative": 15886.120065616002,
+            "address": "0x35a1be7e44ae96034b5b7726a27131ba31bb7f41",
+            "times": 3
+        },
+        {
+            "amount": 93.67658490393482,
+            "cumalative": 2841.560466664,
+            "address": "0x33c92751c26b73f2d90e18465e9bf6e51cbbb14f",
+            "times": 4
+        },
+        {
+            "amount": 1153.34503192558,
+            "cumalative": 34985.259662315,
+            "address": "0x83c99bae963285b1f0a82a1c326fd84bea6438d7",
+            "times": 5
+        },
+        {
+            "amount": 1423.528115776076,
+            "cumalative": 43180.921050038,
+            "address": "0xe81f49ee584132e01011f898b352e6993d954dd5",
+            "times": 5
+        },
+        {
+            "amount": 400.7675434384063,
+            "cumalative": 12156.775451672,
+            "address": "0xcd3a39d283cc0a39c1accddb3a5baf2921a472a1",
+            "times": 5
+        },
+        {
+            "amount": 57.72587414934198,
+            "cumalative": 1751.041223958,
+            "address": "0xb48128f5cfd522930bdb9c52edda86f32b7191e6",
+            "times": 3
+        },
+        {
+            "amount": 251.7998269602627,
+            "cumalative": 7638.028590996,
+            "address": "0xdc4697294b38a10c8f103d8ee19e4fefb637a77c",
+            "times": 3
+        },
+        {
+            "amount": 1152.2501154730303,
+            "cumalative": 34952.046759549,
+            "address": "0x4bb7fba588b4254536de4316e8fb346bbe275ecb",
+            "times": 4
+        },
+        {
+            "amount": 68.19247440449027,
+            "cumalative": 2068.5322761340003,
+            "address": "0x72ff32747231a81d1f8de01d8d9233fb4bf5679f",
+            "times": 3
+        },
+        {
+            "amount": 721.2909665372721,
+            "cumalative": 21879.447223402,
+            "address": "0xa2caad63aae263212189d6df1d1211ce23c0d246",
+            "times": 3
+        },
+        {
+            "amount": 241.77985596893217,
+            "cumalative": 7334.085471429,
+            "address": "0xe12d213da832c453c7b7b68c28fc3e8a8f7b3ae9",
+            "times": 5
+        },
+        {
+            "amount": 17.596335980874862,
+            "cumalative": 533.762548375,
+            "address": "0xe250c08821c88ca628dc5a7d1aee3cdf6d59edea",
+            "times": 4
+        },
+        {
+            "amount": 7007.5169884058405,
+            "cumalative": 212564.145716354,
+            "address": "0x9175e0e8434cb6c5cc45a64f8a80f66ec81b47bf",
+            "times": 3
+        },
+        {
+            "amount": 49.60103533552426,
+            "cumalative": 1504.584536889,
+            "address": "0x3056bd9ab17c58129455fd0d646b28108c3e1aa7",
+            "times": 5
+        },
+        {
+            "amount": 29.995819747188463,
+            "cumalative": 909.8851719050001,
+            "address": "0x2ab822310dc5726ebf17dcfa0b91a3b3adc8d1ff",
+            "times": 5
+        },
+        {
+            "amount": 225.8688127702708,
+            "cumalative": 6851.444143469999,
+            "address": "0xbed53d08bc1413520c4f593e0620c443cc3d874c",
+            "times": 5
+        },
+        {
+            "amount": 802.0122750069827,
+            "cumalative": 24328.02580043,
+            "address": "0x7885811c1bf44f43e68624bf15df8c0b5155dc4d",
+            "times": 5
+        },
+        {
+            "amount": 1459.6342708287023,
+            "cumalative": 44276.155498497,
+            "address": "0xe9a186f79a94b40ba63d8b5ba53d227a3a6dd9f3",
+            "times": 5
+        },
+        {
+            "amount": 140.90105236468048,
+            "cumalative": 4274.054829405,
+            "address": "0xf630b88677b5522dcadc13932e63adc3d1333e76",
+            "times": 5
+        },
+        {
+            "amount": 655.0771154680735,
+            "cumalative": 19870.933978211,
+            "address": "0xd375f6e7d5b94dc17e0aadc9f7b0bdfe59fa0ef3",
+            "times": 5
+        },
+        {
+            "amount": 102.27076264904433,
+            "cumalative": 3102.25395532,
+            "address": "0xee01edf47fa564968651945fe9a9bfec94222594",
+            "times": 5
+        },
+        {
+            "amount": 687.2205458361241,
+            "cumalative": 20845.964196173,
+            "address": "0xe0fc5397667c410e547d1fdf1e41b33754719670",
+            "times": 5
+        },
+        {
+            "amount": 58.39583903544625,
+            "cumalative": 1771.363759588,
+            "address": "0xa2f0e20e6d93e373806bac434752156ee155eed8",
+            "times": 5
+        },
+        {
+            "amount": 185.95583530121863,
+            "cumalative": 5640.73456221,
+            "address": "0x9f23b64b6cc3c42ab496b508acb2db0e8f08bb67",
+            "times": 5
+        },
+        {
+            "amount": 4456.784750257168,
+            "cumalative": 135190.916361318,
+            "address": "0xb1c2a97f0daa7adcd5eee963aa020afd10caa7f5",
+            "times": 5
+        },
+        {
+            "amount": 5.23729620329797,
+            "cumalative": 158.86674198,
+            "address": "0xc66cc24d802c782a9c335c58fd552d9eb3a8a5e4",
+            "times": 5
+        },
+        {
+            "amount": 299.93469649338374,
+            "cumalative": 9098.138846655,
+            "address": "0x0ca93a852c78d94ca1c2a88a4871e0aa8cd997c3",
+            "times": 5
+        },
+        {
+            "amount": 41.79081132756505,
+            "cumalative": 1267.671291177,
+            "address": "0xc405beb918f296cdfef155db18da0a1666930c86",
+            "times": 5
+        }
+    ]
+}
