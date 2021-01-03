@@ -8,6 +8,6 @@ Removed ineligible Addesses -
 Formulas - 
 * Cumalative scores -> combined scores of amount held by the wallet per snapshot
 * total -> total tokens to be airdropped (8.33% of total supply in batch 1)
-* tokenspercumlative -> tokens per cumative score
+* tokenspercumlative -> tokens per cumalative score
 * amount -> amount of tokens to be received by the wallet 
   = tokenspercumlative * Cumalative scores
